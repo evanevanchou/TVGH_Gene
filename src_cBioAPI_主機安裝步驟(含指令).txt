@@ -1,0 +1,66 @@
+# 去北榮要安裝的步驟
+
+## 安裝 docker
+sudo apt update
+sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu  $(lsb_release -cs)  stable"
+sudo apt update
+sudo apt-get install docker-ce
+
+## 啟用 docker 服務
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo systemctl status docker
+
+## 查看 docker 版本
+docker --version
+
+## 安裝 docker compose
+sudo curl -L "https://github.com/docker/compose/releases/download/v2.6.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+
+## 查看 docker compose 版本
+docker-compose --version
+
+## 安裝 cbioportal docker compose
+git clone https://github.com/cBioPortal/cbioportal-docker-compose.git
+cd cbioportal-docker-compose
+sudo ./init.sh
+
+## 啟動 cbioportal docker compose
+sudo docker compose up -d
+
+## 查看 docker 運作狀態
+sudo docker compose ps
+
+## 關閉 docker
+sudo docker compose down
+
+## 重新啟動 docker
+sudo docker compose restart {docker的名稱}
+
+## 安裝 pip
+sudo apt-get update
+sudo apt-get install python3-pip
+
+## 把 reps 上的專案複製下來
+git clone
+
+## 把 f2_cbioportal_preprocess.py、config.json，和 requirements.txt 移到 cbioportal-docker-compose 路徑底下
+mv f2_cbioportal_preprocess.py config.json requirements.txt ../cbioportal-docker-compose/
+
+## 切換到 cbioportal-docker-compose 路徑下
+cd ../cbioportal-docker-compose/
+
+## 安裝我會用到的 python 套件
+sudo pip install -r requirements.txt
+
+## 執行 f2_cbioportal_preprocess.py
+python3 f2_cbioportal_preprocess.py
+
+## 上傳 study (data_upload 是存放上傳 .txt 的路徑資料夾)
+sudo docker compose run cbioportal metaImport.py -u http://cbioportal:8080 -s study/data_upload/ -o
+
+## 刪除已經上傳的 study (study_id 是該 study 的定義標籤，寫在 meta_study.txt 裡面)
+sudo docker compose run cbioportal cbioportalImporter.py -c remove-study -id study_id
