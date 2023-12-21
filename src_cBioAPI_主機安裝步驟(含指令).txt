@@ -44,8 +44,15 @@ sudo docker compose restart {docker的名稱}
 sudo apt-get update
 sudo apt-get install python3-pip
 
-## 把 reps 上的專案複製下來
-git clone
+## 把 github repos 上的專案複製下來
+git clone https://github.com/evanevanchou/TVGH_Gene.git
+
+## 移動檔案或路徑
+mv {檔案名稱} {路徑名稱}
+mv {路徑名稱} {路徑名稱}
+
+## 刪除指定的路徑
+rm -r {路徑名稱}
 
 ## 把 f2_cbioportal_preprocess.py、config.json，和 requirements.txt 移到 cbioportal-docker-compose 路徑底下
 mv f2_cbioportal_preprocess.py config.json requirements.txt ../cbioportal-docker-compose/

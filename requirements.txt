@@ -1,0 +1,6 @@
+json==2.0.9
+numpy==1.24.3
+pandas==2.1.1
+csv==1.0
+re==2.2.1
+openpyxl==3.0.10

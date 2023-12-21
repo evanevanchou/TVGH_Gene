@@ -1,0 +1,1357 @@
+#Patient Identifier	Diagnosis	Overall Survival Status	Age	Sex	ETHICITY
+#Identifier to uniquely specify a patient.	Overall survival in months since initial diagonosis.	Overall patient survival status.	Age at which a condition or disease was first diagnosed.	Sex.	Ethicity.
+#STRING	STRING	NUMBER	NUMBER	STRING	STRING
+#1	1	1	1	1	1
+PATIENT_ID	DIAGNOSIS	STAGE	AGE	SEX	ETHNICITY
+S111-97922_TM22011_notreated	Colon Cancer	NA	NA	NA	NA
+S111-98353_TM22002	Colon Cancer	NA	NA	NA	NA
+S110-98892_TM21008	Liver Cancer	NA	NA	NA	NA
+S110-99321_TM21011	Other Solid Tumor	NA	NA	NA	NA
+S111-97922_TM22011	Colon Cancer	NA	NA	NA	NA
+S109-96812_TM20008	Colorectal Cancer	NA	NA	NA	NA
+S111-97877_TM22010	Rectal Cancer	NA	NA	NA	NA
+S111-99031_TM22006	Gastroesophageal Junction Adenocarcinoma	NA	NA	NA	NA
+S109-89737_TM20004	Cholangiocarcinoma	NA	NA	NA	NA
+S110-98531_TM21004	Colorectal Cancer	NA	NA	NA	NA
+S110-98768_TM21006	Liver Cancer	NA	NA	NA	NA
+S110-98098_TM21002	Head and Neck Cancer	NA	NA	NA	NA
+S111-98427_TM22005	Mesothelioma	NA	NA	NA	NA
+S111-97850_TM22008	Pancreatic Cancer	NA	NA	NA	NA
+M111-00001_TM22015	Rectal Cancer	NA	NA	NA	NA
+S111-97972_TM22014	Pancreatic Cancer	NA	NA	NA	NA
+S110-98017_TM21001	Colorectal Cancer	NA	NA	NA	NA
+S109-89815_TM20005_old	Melanoma	NA	NA	NA	NA
+S109-89815_TM20005	Melanoma	NA	NA	NA	NA
+S111-98297_TM22001	Colorectal Cancer	NA	NA	NA	NA
+S109-89849_TM20007	Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99032_TM22007	Liver Cancer	NA	NA	NA	NA
+S111-98426_TM22004	Pancreatic Cancer	NA	NA	NA	NA
+S110-98265_TM21003	Liver Cancer	NA	NA	NA	NA
+S109-99193_TM20001_include_RECQL4	Soft Tissue Sarcoma	NA	NA	NA	NA
+S110-98988_TM21010	Leiomyosarcoma	NA	NA	NA	NA
+S110-94702_TM21013	Cholangiocarcinoma	NA	NA	NA	NA
+S108-98788_TM1901	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99193_TM20001_20200731	Soft Tissue Sarcoma	NA	NA	NA	NA
+S111-97851_TM22009	Colon Cancer	NA	NA	NA	NA
+S109-99193TM20001	Soft Tissue Sarcoma	NA	NA	NA	NA
+S111-97947_TM22013	Other Solid Tumor	NA	NA	NA	NA
+S109-96819_TM20010	Melanoma	NA	NA	NA	NA
+S110-94848_TM21014	Other Solid Tumor	NA	NA	NA	NA
+S110-98698_TM21005	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98847_TM21007	Gastric Cancer	NA	NA	NA	NA
+S109-89836_TM20006	Head and Neck Cancer	NA	NA	NA	NA
+S109-99691_TM20002	Other Solid Tumor	NA	NA	NA	NA
+S110-89555_TM21012	Hepatocellular Carcinoma	NA	NA	NA	NA
+S110-98912_TM21009	Liver Cancer	NA	NA	NA	NA
+S111-98425_TM22003	Pancreatic Cancer	NA	NA	NA	NA
+S111-97923_TM22012	Cervical Cancer	NA	NA	NA	NA
+S109-96821_TM20009	Colorectal Cancer	NA	NA	NA	NA
+S109-89668_TM20003	Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97922_TM22011_notreated_TBB	Colon Cancer	NA	NA	NA	NA
+S111-98353_TM22002_TBB	Colon Cancer	NA	NA	NA	NA
+S110-98892_TM21008_TBB	Liver Cancer	NA	NA	NA	NA
+S111-97877_TM22010_TBB	Rectal Cancer	NA	NA	NA	NA
+S109-96812_TM20008_TBB_old	Colorectal Cancer	NA	NA	NA	NA
+S111-98650_BR22018X	Ovarian Cancer	NA	NA	NA	NA
+S109-89737_TM20004_TBB	Cholangiocarcinoma	NA	NA	NA	NA
+S111-97922_TM22011_TBB	Colon Cancer	NA	NA	NA	NA
+S110-99321_TM21011_TBB	Other Solid Tumor	NA	NA	NA	NA
+M112-00086_F23024_Unhided	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97954_F22113	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97972_TM22014_TBB	Pancreatic Cancer	NA	NA	NA	NA
+S111-97954_F22113_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00086_F23024	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00086_F23024_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98698_TM21005_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98531_TM21004_TBB	Colorectal Cancer	NA	NA	NA	NA
+S111-98297_TM22001_TBB	Colorectal Cancer	NA	NA	NA	NA
+S110-99444_F21072	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99444_F21072_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94848_TM21014_TBB	Other Solid Tumor	NA	NA	NA	NA
+S111-98426_TM22004_TBB	Pancreatic Cancer	NA	NA	NA	NA
+S109-89849_TM20007_TBB_old	Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98988_TM21010_TBB	Leiomyosarcoma	NA	NA	NA	NA
+S110-98265_TM21003_TBB	Liver Cancer	NA	NA	NA	NA
+S111-97851_TM22009_TBB	Colon Cancer	NA	NA	NA	NA
+S111-99032_TM22007_TBB	Liver Cancer	NA	NA	NA	NA
+S111-98427_TM22005_TBB	Mesothelioma	NA	NA	NA	NA
+S109-96821_TM20009_TBB_old	Colorectal Cancer	NA	NA	NA	NA
+S110-98768_TM21006_TBB	Liver Cancer	NA	NA	NA	NA
+M111-00001_TM22015_TBB	Rectal Cancer	NA	NA	NA	NA
+S111-99031_TM22006_TBB_copy	Gastroesophageal Junction Adenocarcinoma	NA	NA	NA	NA
+S110-89555_TM21012_TBB	Hepatocellular Carcinoma	NA	NA	NA	NA
+S111-99031_TM22006_TBB	Gastroesophageal Junction Adenocarcinoma	NA	NA	NA	NA
+S109-89815_TM20005_TBB	Melanoma	NA	NA	NA	NA
+S111-99031_TM22006_TBB_New_copy	Gastroesophageal Junction Adenocarcinoma	NA	NA	NA	NA
+S111-99031_TM22006_TBB_New	Gastroesophageal Junction Adenocarcinoma	NA	NA	NA	NA
+S110-98847_TM21007_TBB	Gastric Cancer	NA	NA	NA	NA
+S110-98017_TM21001_TBB	Colorectal Cancer	NA	NA	NA	NA
+S111-97947_TM22013_TBB	Other Solid Tumor	NA	NA	NA	NA
+S109-99691_TM20002_TBB	Other Solid Tumor	NA	NA	NA	NA
+S110-98912_TM21009_TBB	Liver Cancer	NA	NA	NA	NA
+S109-96819_TM20010_TBB_old	Melanoma	NA	NA	NA	NA
+S111-97923_TM22012_TBB	Cervical Cancer	NA	NA	NA	NA
+S110-94778_F21103	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89668_TM20003_TBB	Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97850_TM22008_TBB	Pancreatic Cancer	NA	NA	NA	NA
+M112-00152_MY23033	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-98425_TM22003_TBB	Pancreatic Cancer	NA	NA	NA	NA
+S110-94702_TM21013_TBB	Cholangiocarcinoma	NA	NA	NA	NA
+M112-00065_MY23021	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99481_F22055	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00041_MY23013	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99175_MY22011	Acute Myeloid Leukemia	NA	NA	NA	NA
+M111-00013_F22129	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98565_F22018	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00155_MY23036	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99561_F22057_1st	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97909_MY22028	Blast Phase Chronic Myeloid Leukemia	NA	NA	NA	NA
+S111-97964_MY22032	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00113_MY23028	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00077_MY23024	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-94778_F21103_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89836_TM20006_TBB_old	Head and Neck Cancer	NA	NA	NA	NA
+S111-99481_F22055_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97946_MY22031	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00113_MY23028_1st	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-98363_MY22005	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99668_F22066	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00130_MY23030	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-98725_MY22010	Myelodysplastic Syndrome	NA	NA	NA	NA
+S110-99498_F21073	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00049_MY23016	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99624_MY22016	Acute Myeloid Leukemia	NA	NA	NA	NA
+M111-00012_F22128	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00035_MY23011	Myelodysplastic Syndrome	NA	NA	NA	NA
+M112-00185_MY23045	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-97900_MY22027	Chronic Myelomonocytic Leukemia	NA	NA	NA	NA
+M111-00013_F22129_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00181_MY23041	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-99668_F22066_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99930_MY20001	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-99090_F22032	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98430_MY22007	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-97878_MY22024	Myelodysplastic Syndrome	NA	NA	NA	NA
+M112-00022_MY23007	Acute Myeloid Leukemia	NA	NA	NA	NA
+S108-99134_F19008	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98499_MY22008	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00051_MY23018	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00032_MY23009	Chronic Myelomonocytic Leukemia	NA	NA	NA	NA
+M111-00008_MY22033	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-97805_MY22020	Acute Myeloid Leukemia	NA	NA	NA	NA
+M111-00014_MY22034	Chronic Myelomonocytic Leukemia	NA	NA	NA	NA
+M112-00043_MY23015	Myeloid/Lymphoid Neoplasms with Eosinophilia	NA	NA	NA	NA
+M112-00003_MY23001	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00010_MY23005	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-97899_MY22026_TBB	Chronic Myeloid Leukemia	NA	NA	NA	NA
+M112-00022_MY23007_repeat	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-98098_TM21002_TBB	Head and Neck Cancer	NA	NA	NA	NA
+S110-98251_MY21001	Acute Promyelocytic Leukemia	NA	NA	NA	NA
+S111-98565_F22018_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00088_F23026	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00183_MY23043	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00005_MY23003	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-98214_MY22003	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00154_MY23035	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-97899_MY22026	Chronic Myeloid Leukemia	NA	NA	NA	NA
+M112-00050_MY23017	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-98300_MY22004	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00170_MY23038	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-97920_MY22029	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-98575_MY22009	Myelodysplastic Syndrome	NA	NA	NA	NA
+M111-00031_MY22038	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-97921_MY22030	Acute Myeloid Leukemia	NA	NA	NA	NA
+M111-00012_F22128_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99562_F22058	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00033_MY23010	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-94692_MY21007	Acute Lymphoblastic Leukemia	NA	NA	NA	NA
+M112-00112_MY23027	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-99211_F22040	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94927_MY21008	Myelodysplastic Syndrome	NA	NA	NA	NA
+M112-00095_MY23025	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99367_MY22013	Myelodysplastic/Myeloproliferative Neoplasm	NA	NA	NA	NA
+M112-00131_MY23031	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00031_MY23008	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-99747_MY22019	Acute Lymphoblastic Leukemia	NA	NA	NA	NA
+S109-89665_F20075	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99623_MY22015	Myelodysplastic Syndrome	NA	NA	NA	NA
+S110-98597_MY21004	Myelodysplastic/Myeloproliferative Neoplasm	NA	NA	NA	NA
+M112-00064_MY23019	Other Hematological Cancer	NA	NA	NA	NA
+M112-00187_MY23047	Acute Lymphoblastic Leukemia	NA	NA	NA	NA
+S111-97852_MY22023	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00120_MY23029	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-98212_MY22001	Myelodysplastic Syndrome	NA	NA	NA	NA
+S110-98749_MY21006	Other Hematological Cancer	NA	NA	NA	NA
+M112-00153_MY23034	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00182_MY23042	Myelodysplastic Syndrome	NA	NA	NA	NA
+M112-00186_MY23046	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99090_F22032_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-97820_MY21009	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-94913_F21110	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00172_MY23040	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-98360_MY21002	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00088_F23026_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98213_MY22002	Myelodysplastic Syndrome	NA	NA	NA	NA
+M111-00015_MY22035	Multiple Myeloma	NA	NA	NA	NA
+S111-99522_BR22035	Ovarian Cancer	NA	NA	NA	NA
+M112-00159_BR23047	Ovarian Cancer	NA	NA	NA	NA
+F22110_2022-10-20_13-51-05-379_All_OR	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98364_MY22006	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-98293_F22012	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98887_BR22026	Breast Cancer	NA	NA	NA	NA
+M112-00009_MY23004	Other Hematological Cancer	NA	NA	NA	NA
+S111-97806_MY22021	Other Hematological Cancer	NA	NA	NA	NA
+M112-00076_MY23023	Myelodysplastic Syndrome	NA	NA	NA	NA
+M112-00066_MY23022	Myeloproliferative Neoplasms	NA	NA	NA	NA
+S111-99176_MY22012	Myelodysplastic Syndrome	NA	NA	NA	NA
+S110-99267_BR21034	Ovarian Cancer	NA	NA	NA	NA
+S110-99498_F21073_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99211_F22040_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99363_BR22031	Breast Cancer	NA	NA	NA	NA
+S111-97831_MY22022	Acute Promyelocytic Leukemia	NA	NA	NA	NA
+M112-00132_MY23032	Myeloproliferative Neoplasms	NA	NA	NA	NA
+S110-98096_F21005	Melanoma	NA	NA	NA	NA
+S111-97898_MY22025	Other Hematological Cancer	NA	NA	NA	NA
+M111-00035_MY22039	Non-Hodgkin's Lymphoma	NA	NA	NA	NA
+S111-99746_MY22018	Acute Myeloid Leukemia	NA	NA	NA	NA
+M111-00016_MY22036	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-97831_MY22022-1	Acute Promyelocytic Leukemia	NA	NA	NA	NA
+M112-00171_MY23039	Myelodysplastic Syndrome	NA	NA	NA	NA
+S110-98064_BR21002	Ovarian Cancer	NA	NA	NA	NA
+S110-98019_BR21001old	Ovarian Cancer	NA	NA	NA	NA
+S110-89470_BR21050	Ovarian Cancer	NA	NA	NA	NA
+S110-98438_MY21003	Multiple Myeloma	NA	NA	NA	NA
+M112-00105_BR23030	Ovarian Cancer	NA	NA	NA	NA
+M112-00125_BR23038	Ovarian Cancer	NA	NA	NA	NA
+S108-98931_F19005	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00037_BR23010	Breast Cancer	NA	NA	NA	NA
+M112-00013_BR23004	Breast Cancer	NA	NA	NA	NA
+S111-97856_BR22051	Breast Cancer	NA	NA	NA	NA
+S110-94701_BR21053	Breast Cancer	NA	NA	NA	NA
+M112-00106_BR23031_old	Ovarian Cancer	NA	NA	NA	NA
+S109-89709_F20081	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97928_BR22056	Breast Cancer	NA	NA	NA	NA
+M112-00047_BR23013	Ovarian Cancer	NA	NA	NA	NA
+S111-99670_BR22040	Breast Cancer	NA	NA	NA	NA
+S110-94998_BR21061	Breast Cancer	NA	NA	NA	NA
+S111-99562_F22058_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S108-98613_F19001	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99982_F20070	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99535_F20027	Thyroid Cancer	NA	NA	NA	NA
+S111-99667_F22065	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99318_F21067_old	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99390_F20015	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96877_F20117	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00184_MY23044	Myeloid/Lymphoid Neoplasms with Eosinophilia	NA	NA	NA	NA
+S111-98724_BR22022	Ovarian Cancer	NA	NA	NA	NA
+M112-00109_BR23034	Ovarian Cancer	NA	NA	NA	NA
+S110-98701_MY21005	Acute Myeloid Leukemia	NA	NA	NA	NA
+S109-99206_F20002	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99306_BR22030	Breast Cancer	NA	NA	NA	NA
+S109-99536_F20028	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99595_F20035	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98410_BR21010	Ovarian Cancer	NA	NA	NA	NA
+M111-00028_BR22066	Breast Cancer	NA	NA	NA	NA
+S110-99949_BR21049	Breast Cancer	NA	NA	NA	NA
+S109-99537_F20029	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99579_F20033	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98403_F21024	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99968_F20068	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99863_F21087	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99340_F20009	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98491_F22017	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98351_BR21008	Ovarian Cancer	NA	NA	NA	NA
+M112-00004_MY23002	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99622_MY22014	Other Hematological Cancer	NA	NA	NA	NA
+M112-00042_MY23014	Myeloproliferative Neoplasms	NA	NA	NA	NA
+S109-99577_F20031	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98019_BR21001_revised	Ovarian Cancer	NA	NA	NA	NA
+S110-98017_F21001	Colorectal Cancer	NA	NA	NA	NA
+S110-99595_F21079	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99981_F20069	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99542_BR21039	Ovarian Cancer	NA	NA	NA	NA
+S109-99051_F20001	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98909_BR21024	Breast Cancer	NA	NA	NA	NA
+S110-98766_BR21020	Ovarian Cancer	NA	NA	NA	NA
+M112-00057_BR23017	Breast Cancer	NA	NA	NA	NA
+S110-94700_BR21052	Breast Cancer	NA	NA	NA	NA
+M112-00135_BR23039	Ovarian Cancer	NA	NA	NA	NA
+S110-99778_F21082	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00058_BR23018	Ovarian Cancer	NA	NA	NA	NA
+M112-00115_BR23035	Breast Cancer	NA	NA	NA	NA
+S111-97840_BR22050	Ovarian Cancer	NA	NA	NA	NA
+S111-99614_BR22037	Breast Cancer	NA	NA	NA	NA
+M112-00179_BR23052	Breast Cancer	NA	NA	NA	NA
+M112-00108_BR23033	Breast Cancer	NA	NA	NA	NA
+S111-99520_BR22033	Breast Cancer	NA	NA	NA	NA
+S111-98111_BR22005	Breast Cancer	NA	NA	NA	NA
+S110-98845_BR21022	Ovarian Cancer	NA	NA	NA	NA
+S109-96820_F20108	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99652_F20040	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99983_F20071	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98018_F21002	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00113_MY23028_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S109-96835_F20111	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98718_F22020	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99750_F20048	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98244_BR21004	Ovarian Cancer	NA	NA	NA	NA
+S110-99864_F21088	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99289_F20007	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96879_BR20008	Ovarian Cancer	NA	NA	NA	NA
+S110-98406_F21027	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99489_F20023	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99715_BR21043	Ovarian Cancer	NA	NA	NA	NA
+S109-99578_F20032	Thyroid Cancer	NA	NA	NA	NA
+M112-00021_MY23006	Other Hematological Cancer	NA	NA	NA	NA
+S109-89816_F20095	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96837_F20113	Liver Cancer	NA	NA	NA	NA
+S109-99477_F20021	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89713_BR20003	Ovarian Cancer	NA	NA	NA	NA
+S110-98325_BR21006	Ovarian Cancer	NA	NA	NA	NA
+S108-99108_F19007	Breast Cancer	NA	NA	NA	NA
+S109-89735_F20086	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89815_F20094	Melanoma	NA	NA	NA	NA
+S109-96836_F20112	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98719_F22021	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98893_F21045	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99749_F20047	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97909_MY22028_TBB	Blast Phase Chronic Myeloid Leukemia	NA	NA	NA	NA
+S111-98942_F22026	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00004_F22124	Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99265_F20005	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98107_F22006	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99091_F21057	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00029_F22132	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98404_F21025	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99657_BR21041	Ovarian Cancer	NA	NA	NA	NA
+S109-99891_F20062	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99521_F20026	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00103_F23036	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99818_F20055	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89672_F20079	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99360_F22048	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98490_F22016	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99747_F20045	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94845_F21104_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89833_F20096	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89838_F20101	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00138_BR23042_old	Breast Cancer	NA	NA	NA	NA
+M112-00138_BR23042	Breast Cancer	NA	NA	NA	NA
+S110-98128_F21008	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99890_F20061	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97857_F22085	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00017_BR22062	Breast Cancer	NA	NA	NA	NA
+M112-00024_BR23007	Breast Cancer	NA	NA	NA	NA
+M112-00028_BR23008	Breast Cancer	NA	NA	NA	NA
+S111-97914_BR22053	Breast Cancer	NA	NA	NA	NA
+M112-00149_BR23045	Ovarian Cancer	NA	NA	NA	NA
+S111-98210_BR22010	Breast Cancer	NA	NA	NA	NA
+S111-98112_BR22006	Breast Cancer	NA	NA	NA	NA
+S111-97807_BR22046	Breast Cancer	NA	NA	NA	NA
+S111-98723_BR22021	Ovarian Cancer	NA	NA	NA	NA
+S110-94995_F21114	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00145_F23046	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98263_F21018	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99667_F22065_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99886_F20057	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89673_F20080	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94913_F21110_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89734_F20085	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99748_F20046	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99770_F20050_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00097_F23032	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99318_F21067_TBB_old	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99389_F20014	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98209_F22011	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89776_F20089	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94914_F21111	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98322_F21020	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89671_F20078	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99816_F20053	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98482_BR21014	Ovarian Cancer	NA	NA	NA	NA
+S110-98405_F21026	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99538_F20030	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96875_F20114	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98349_F21023	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+F22110_2022-10-20_14-00-38-520_All_OR	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00139_BR23043_old	Ovarian Cancer	NA	NA	NA	NA
+M112-00139_BR23043	Ovarian Cancer	NA	NA	NA	NA
+M112-00102_F23035	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99207_F20003_copy	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89791_F20091	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99207_F20003	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99887_F20058	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00055_BR23015	Breast Cancer	NA	NA	NA	NA
+S110-98910_BR21025	Ovarian Cancer	NA	NA	NA	NA
+S110-98185_F21009	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99379_BR21036	Breast Cancer	NA	NA	NA	NA
+M111-00026_MY22037	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-99724_MY22017	Other Hematological Cancer	NA	NA	NA	NA
+S110-94999_BR21062	Breast Cancer	NA	NA	NA	NA
+S111-99183_F22037	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94845_F21104	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98409_BR21009	Ovarian Cancer	NA	NA	NA	NA
+S110-94918_BR21059	Pancreatic Cancer	NA	NA	NA	NA
+S111-97901_BR22054	Other Solid Tumor	NA	NA	NA	NA
+S110-99213_BR21032	Ovarian Cancer	NA	NA	NA	NA
+S110-99322_BR21035	Breast Cancer	NA	NA	NA	NA
+S110-98962_BR21027	Breast Cancer	NA	NA	NA	NA
+S110-99541_BR21038	Breast Cancer	NA	NA	NA	NA
+S110-99211_BR21030	Breast Cancer	NA	NA	NA	NA
+M112-00007_BR23001	Breast Cancer	NA	NA	NA	NA
+M112-00178_BR23051	Ovarian Cancer	NA	NA	NA	NA
+S109-99817_F20054	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00148_BR23044	Breast Cancer	NA	NA	NA	NA
+M112-00029_BR23009	Breast Cancer	NA	NA	NA	NA
+M112-00107_BR23032	Breast Cancer	NA	NA	NA	NA
+S109-96833_F20109	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89835_F20098	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99290_F20008	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97900_MY22027_TBB	Chronic Myelomonocytic Leukemia	NA	NA	NA	NA
+S109-99888_F20059	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99458_F20019	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99360_F20012	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99770_F20050	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99419_F20018	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99499_F21074	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99922_F20065	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99796_F20051	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98407_F21028	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97810_F22076	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99422_F22052	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98350_BR21007	Ovarian Cancer	NA	NA	NA	NA
+S110-99266_BR21033	Ovarian Cancer	NA	NA	NA	NA
+S110-98732_BR21018	Breast Cancer	NA	NA	NA	NA
+S109-89710_F20082	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98846_BR21023	Ovarian Cancer	NA	NA	NA	NA
+S110-99092_BR21029	Ovarian Cancer	NA	NA	NA	NA
+S109-89710_F20082_old	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00160_BR23048	Ovarian Cancer	NA	NA	NA	NA
+S111-99615_BR22038	Breast Cancer	NA	NA	NA	NA
+S111-97839_BR22049	Breast Cancer	NA	NA	NA	NA
+S111-99613_BR22036	Breast Cancer	NA	NA	NA	NA
+M111-00006_BR22061	Breast Cancer	NA	NA	NA	NA
+M112-00046_BR23012	Breast Cancer	NA	NA	NA	NA
+S110-98593_F21034	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97869_BR22052	Ovarian Cancer	NA	NA	NA	NA
+S110-98240_F21012	Soft Tissue Sarcoma	NA	NA	NA	NA
+S109-99669_F20041	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00060_BR23019	Ovarian Cancer	NA	NA	NA	NA
+S111-97874_F22092	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97946_MY22031_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S109-89601_F20072	Thyroid Cancer	NA	NA	NA	NA
+S111-98725_MY22010_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-97911_F22100_New	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99422_F22052_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97911_F22100	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99769_F20049	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00009_F22125	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89738_BR20004	Other Solid Tumor	NA	NA	NA	NA
+S110-99165_F21061	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98620_BR21016	Ovarian Cancer	NA	NA	NA	NA
+S110-99865_F21089	Thyroid Cancer	NA	NA	NA	NA
+S111-97953_F22112	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99500_F21075	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99180_F22034	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98722_F22024	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99713_F21081	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98261_F21016	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98531_F21033	Colon Cancer	NA	NA	NA	NA
+S110-99778_F21082_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97936_F22105	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97866_F22090	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97972_F22120_Taiwan	Pancreatic Cancer	NA	NA	NA	NA
+S110-99442_F21071	Breast Cancer	NA	NA	NA	NA
+M112-00010_MY23005_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S110-98960_F21047	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99318_F21067	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99320_F21069	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98807_F22025	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97943_F22109	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99610_F22062	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99725_F22067	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00104_BR23029	Breast Cancer	NA	NA	NA	NA
+S111-97940_BR22057	Ovarian Cancer	NA	NA	NA	NA
+M112-00014_BR23005	Breast Cancer	NA	NA	NA	NA
+M112-00038_BR23011	Breast Cancer	NA	NA	NA	NA
+S111-97915_BR22055	Prostate Cancer	NA	NA	NA	NA
+M111-00018_BR22063	Breast Cancer	NA	NA	NA	NA
+S111-99423_BR22032	Breast Cancer	NA	NA	NA	NA
+S111-98114_BR22008	Ovarian Cancer	NA	NA	NA	NA
+S110-99869_BR21046	Ovarian Cancer	NA	NA	NA	NA
+S111-98113_BR22007	Breast Cancer	NA	NA	NA	NA
+S111-98352_BR22014	Ovarian Cancer	NA	NA	NA	NA
+S111-97895_F22097	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98242_F21014	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98127_F21007	Head and Neck Cancer	NA	NA	NA	NA
+S109-99625_F20039	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89834_F20097_old	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99301_F22042	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99418_F20017	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89834_F20097	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99821_F21086	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S108-98772_F19002	Breast Cancer	NA	NA	NA	NA
+S111-99561_F22057	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96819_F20107	Melanoma	NA	NA	NA	NA
+M111-00030_F22133	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99029_F22028	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00041_MY23013_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00083_F23023	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00183_MY23043_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-98696_F21037	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00072_F23020	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00156_F23049	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94849_F21108	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98697_F21038	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98408_F21029	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96834_F20110	Other Solid Tumor	NA	NA	NA	NA
+M112-00169_MY23037	Large B-Cell Lymphoma	NA	NA	NA	NA
+S110-98262_F21017	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98241_F21013	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98323_F21021	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00123_F23040	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94916_BR21057	Breast Cancer	NA	NA	NA	NA
+S110-98095_F21004	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99689_F20043	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99478_F20022	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99815_F20052	Other Solid Tumor	NA	NA	NA	NA
+S109-96876_F20116	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89836_F20099	Head and Neck Cancer	NA	NA	NA	NA
+S110-99947_F21093	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94847_F21106	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99656_F21080	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94914_F21111_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99923_F20066	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98808_BR22023	Ovarian Cancer	NA	NA	NA	NA
+M112-00045_F23011	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98468_F21031	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99889_F20060	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97935_F22104	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99624_F20038	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97942_F22108	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00152_MY23033_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-98293_F22012_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00075_BR23022	Ovarian Cancer	NA	NA	NA	NA
+S110-98097_F21006	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98097_F21006old	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99688_F20042	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89665_F20075_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99020_F21052	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97952_F22111	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00089_F23027	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94915_F21112	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+Focus_F20006	Colorectal Cancer	NA	NA	NA	NA
+S109-99885_F20056	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00011_F22127	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98491_F22017_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00106_BR23031	Ovarian Cancer	NA	NA	NA	NA
+S109-89790_F20090	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89602_F20073	Liver Cancer	NA	NA	NA	NA
+S108-98773_F19003	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89666_F20076	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99047_F21054	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99144_F21058	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98699_BR21017	Ovarian Cancer	NA	NA	NA	NA
+M112-00044_F23010	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89773_F20088	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00010_F22126	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89736_F20087	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94846_F21105	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00068_F23016	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99690_F20044	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98094_F21003	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99892_F20063	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97838_BR22048	Breast Cancer	NA	NA	NA	NA
+S111-98110_BR22004	Ovarian Cancer	NA	NA	NA	NA
+S109-89872_F20105	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98037_F22004	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97966_F22114	Head and Neck Cancer	NA	NA	NA	NA
+M111-00001_F22121	Rectal Cancer	NA	NA	NA	NA
+S111-99877_F22073	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89870_F20102	Other Solid Tumor	NA	NA	NA	NA
+M112-00131_MY23031_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00082_F23022	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99867_F21091	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99866_F21090	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00155_MY23036_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-94997_F21118	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98842_F21041	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+AS22005		NA	NA	NA	NA
+M111-00031_MY22038_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S110-94776_F21101	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00177_F23056	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98208_F22010	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98294_F22013	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99090_F21056	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00147_F23048	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99784_F22071	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99166_F21062	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99046_F21053	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98764_F21040_516	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97885_F22095	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98764_F21040_510	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94850_F21109	Thyroid Cancer	NA	NA	NA	NA
+S110-99319_F21068	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99791_BR22042	Breast Cancer	NA	NA	NA	NA
+S110-98597_MY21004_TBB	Myelodysplastic/Myeloproliferative Neoplasm	NA	NA	NA	NA
+S110-98243_BR21003	Breast Cancer	NA	NA	NA	NA
+S110-98470_BR21012	Ovarian Cancer	NA	NA	NA	NA
+M112-00005_MY23003_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-97921_MY22030_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S109-89667_BR20002	Ovarian Cancer	NA	NA	NA	NA
+S111-97864_F22088	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00137_BR23041_old	Ovarian Cancer	NA	NA	NA	NA
+S109-96818_F20106	Other Solid Tumor	NA	NA	NA	NA
+S110-98469_BR21011	Ovarian Cancer	NA	NA	NA	NA
+S111-99876_F22072	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99874_BR22043	Breast Cancer	NA	NA	NA	NA
+M112-00035_MY23011_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S110-94849_F21108_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94852_BR21055	Breast Cancer	NA	NA	NA	NA
+M111-00037_BR22067	Breast Cancer	NA	NA	NA	NA
+M112-00161_BR23049	Breast Cancer	NA	NA	NA	NA
+S110-99822_BR21044	Breast Cancer	NA	NA	NA	NA
+S111-98809_BR22024	Ovarian Cancer	NA	NA	NA	NA
+S111-98652_BR22020	Breast Cancer	NA	NA	NA	NA
+S110-98844_F21043	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99820_F21085	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97809_F22075	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89792_F20092	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98363_MY22005_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-99713_F21081_DNA	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00026_F23006	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99168_F21064	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00145_F23046_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00049_MY23016_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99302_F22045	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00036_F22134	Breast Cancer	NA	NA	NA	NA
+S110-98843_F21042	Gastrointestinal Stromal Tumor	NA	NA	NA	NA
+M112-00071_F23019	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00188_F23057	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98264_F21019	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89711_F20083	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89670_F20077	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89603_F20074	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89837_F20100	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97923_F22103	Cervical Cancer	NA	NA	NA	NA
+S109-89871_F20103	Other Solid Tumor	NA	NA	NA	NA
+S111-98720_F22022	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98207_F22009	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98035_F22002	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00051_MY23018_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99728_F22070_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00157_F23050	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00087_F23025	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00181_MY23041_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-97834_F22080	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98108_F22007	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97808_F22074	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97897_F22099	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00022_F22130	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94702_F21100	Cholangiocarcinoma	NA	NA	NA	NA
+M112-00117_BR23037	Ovarian Cancer	NA	NA	NA	NA
+S111-99362_F22050	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99728_F22070	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98489_F22015	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98943_F22027	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99564_F22060	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00010_F22126_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00124_F23041	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00101_F23034	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00099_BR23028	Breast Cancer	NA	NA	NA	NA
+S111-97971_F22119	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00114_F23037	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00087_F23025_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00001_F23001	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99304_F22047	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00059_F23013	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97823_F22078	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99212_F22041	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94996_F21117	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99563_F22059	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98942_F22026_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00096_F23031	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97913_F22102	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00018_F23005	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94636_F21099	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99181_F22035	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97875_F22093	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97873_F22091	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99378_F21070	Other Solid Tumor	NA	NA	NA	NA
+S111-97972_F22120_Global	Pancreatic Cancer	NA	NA	NA	NA
+M112-00122_F23039	Bladder Urothelial Carcinoma	NA	NA	NA	NA
+S110-98696_F21037_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89814_F20093	Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89709_F20081_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98988_F21049	Leiomyosarcoma	NA	NA	NA	NA
+S110-98260_F21015	Other Solid Tumor	NA	NA	NA	NA
+M111-00022_F22130_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99726_F22068	Melanoma	NA	NA	NA	NA
+S111-98430_MY22007_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00077_MY23024_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99624_MY22016_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00103_F23036_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98575_MY22009_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S110-98767_BR21021	Ovarian Cancer	NA	NA	NA	NA
+S110-98765_BR21019	Breast Cancer	NA	NA	NA	NA
+S110-98911_BR21026	Breast Cancer	NA	NA	NA	NA
+M112-00092_BR23026	Ovarian Cancer	NA	NA	NA	NA
+S111-98296_BR22013	Ovarian Cancer	NA	NA	NA	NA
+S110-99596_BR21037	Ovarian Cancer	NA	NA	NA	NA
+S110-99597_BR21040	Ovarian Cancer	NA	NA	NA	NA
+S110-99714_BR21042	Ovarian Cancer	NA	NA	NA	NA
+M111-00005_BR22060	Ovarian Cancer	NA	NA	NA	NA
+M111-00024_BR22065	Breast Cancer	NA	NA	NA	NA
+S111-98109_BR22003	Breast Cancer	NA	NA	NA	NA
+S111-97824_BR22047	Ovarian Cancer	NA	NA	NA	NA
+M112-00093_BR23027	Breast Cancer	NA	NA	NA	NA
+M112-00073_BR23020	Breast Cancer	NA	NA	NA	NA
+M112-00074_BR23021	Breast Cancer	NA	NA	NA	NA
+S110-94851_BR21054	Prostate Cancer	NA	NA	NA	NA
+M112-00023_BR23006	Breast Cancer	NA	NA	NA	NA
+S110-94919_BR21060	Ovarian Cancer	NA	NA	NA	NA
+S111-99092_BR22028	Breast Cancer	NA	NA	NA	NA
+S111-99873_BR22044	Breast Cancer	NA	NA	NA	NA
+M112-00168_BR23050	Breast Cancer	NA	NA	NA	NA
+S110-94637_BR21051	Breast Cancer	NA	NA	NA	NA
+S110-94853_BR21056	Breast Cancer	NA	NA	NA	NA
+M112-00078_BR23023	Breast Cancer	NA	NA	NA	NA
+S111-98115_BR22009	Breast Cancer	NA	NA	NA	NA
+S111-98295_BR22012	Ovarian Cancer	NA	NA	NA	NA
+S111-98649_BR22017	Ovarian Cancer	NA	NA	NA	NA
+S109-99623_F20037	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99893_F20064	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99594_F20034	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99967_F20067	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S108-98787_F19004	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96877_F20117_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98214_MY22003_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-97895_F22097_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97866_F22090_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00067_F23015	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00008_MY22033_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-97805_MY22020_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00033_MY23010_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S109-99577_F20031_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98593_F21034_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99183_F22037_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97835_F22081	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00134_F23043	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99561_F22057_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00153_MY23034_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+M111-00030_F22133_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94847_F21106_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00003_MY23001_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-99611_F22063	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94638_F21098	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99595_F21079_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98842_F21041_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98893_F21045_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00050_MY23017_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00027_F23007	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96820_F20108_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00017_F23004	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98300_MY22004_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+M111-00004_F22124_TBB	Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99265_F21066	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99209_F22038	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99210_F22039	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00081_F23021	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00054_F23014	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97864_F22088_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99612_F22064	Melanoma	NA	NA	NA	NA
+S110-94917_BR21058	Unknown Primary Origin	NA	NA	NA	NA
+S109-89835_F20098_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99458_F2019TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97974_BR22059	Other Solid Tumor	NA	NA	NA	NA
+S110-99146_F21060	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98039_BR22002	Breast Cancer	NA	NA	NA	NA
+S111-98211_BR22011	Ovarian Cancer	NA	NA	NA	NA
+S111-98650_BR22018	Ovarian Cancer	NA	NA	NA	NA
+AS22015		NA	NA	NA	NA
+S111-99875_BR22045	Breast Cancer	NA	NA	NA	NA
+M112-00187_MY23047_TBB	Acute Lymphoblastic Leukemia	NA	NA	NA	NA
+S110-99864_F21088_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99565_F22061	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00102_F23035_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-97820_MY21009_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-99091_F21057_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99713_F21081_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98619_F21036	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00132_MY23032_TBB	Myeloproliferative Neoplasms	NA	NA	NA	NA
+S109-99796_F20051_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98096_F21005_TBB	Melanoma	NA	NA	NA	NA
+S111-99611_F22063_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00130_MY23030_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-98530_F21032_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98908_F21046	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97859_F22087_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99725_F22067_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99623_MY22015_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-97822_F22077	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99732_BR22041	Breast Cancer	NA	NA	NA	NA
+S110-99212_BR21031	Ovarian Cancer	NA	NA	NA	NA
+M112-00137_BR23041	Ovarian Cancer	NA	NA	NA	NA
+S110-99870_BR21047	Ovarian Cancer	NA	NA	NA	NA
+M112-00056_BR23016	Breast Cancer	NA	NA	NA	NA
+S110-99594_F21078	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00011_BR23002	Ovarian Cancer	NA	NA	NA	NA
+M112-00175_F23054	Cholangiocarcinoma	NA	NA	NA	NA
+S111-98886_BR22025	Breast Cancer	NA	NA	NA	NA
+S110-99948_BR21048	Breast Cancer	NA	NA	NA	NA
+S111-98492_BR22016	Breast Cancer	NA	NA	NA	NA
+S111-98038_BR22001	Breast Cancer	NA	NA	NA	NA
+M112-00065_MY23021_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+BR20001	Ovarian Cancer	NA	NA	NA	NA
+S111-98036_F22003	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98648_F22019	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00014_MY22034_TBB	Chronic Myelomonocytic Leukemia	NA	NA	NA	NA
+S110-98990_F21051	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99182_F22036	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98106_F22005	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99167_F21063	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99821_F21086_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99088_F22030	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99501_F21076	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98206_F22008	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00002_F22122	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98961_F21048	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98530_F21032	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97859_F22087	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99779_F21083	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97912_F22101	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97896_F22098	Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99091_F22033	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97837_F22083	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99367_MY22013_TBB-1	Myelodysplastic/Myeloproliferative Neoplasm	NA	NA	NA	NA
+S111-97865_F22089	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00034_F23008	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99367_MY22013_TBB	Myelodysplastic/Myeloproliferative Neoplasm	NA	NA	NA	NA
+S110-98698_F21039	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99442_F21071_TBB	Breast Cancer	NA	NA	NA	NA
+S109-99652_F20040_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00072_F23020_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00045_F23011_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96822_BR20005	Ovarian Cancer	NA	NA	NA	NA
+S111-97851_F22084	Colon Cancer	NA	NA	NA	NA
+M112-00170_MY23038_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-98108_F22007_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98294_F22013_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99748_F20046_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00097_F23032_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98107_F22006_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99362_F22050_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98721_F22023	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98499_MY22008_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S109-89671_F20078_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96835_F20111_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98349_F21023_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97911_F22100_TBB_New	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99968_F20068_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00006_F23002	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98481_BR21013	Ovarian Cancer	NA	NA	NA	NA
+S111-97911_F22100_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98718_F22020_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00032_MY23009_TBB	Chronic Myelomonocytic Leukemia	NA	NA	NA	NA
+S110-99819_F21084	Head and Neck Cancer	NA	NA	NA	NA
+S109-99578_F20032_TBB	Thyroid Cancer	NA	NA	NA	NA
+S111-97941_F22107	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97810_F22076_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99175_MY22011_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-97943_F22109_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98960_F21047_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99318_F21067_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98037_F22004_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97833_F22079	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99877_F22073_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89735_F20086_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96836_F20112_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98720_F22022_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99981_F20069_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99656_F21080_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99866_F21090_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00157_F23050_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98719_F22021_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94776_F21101_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99946_F21092	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99089_F22031	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00098_F23033	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97967_F22115	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99361_F22049	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99887_F20058_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00036_F23009	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98097_F21006_TBB_old	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00133_F23042	Head and Neck Cancer	NA	NA	NA	NA
+S110-98097_F21006_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00143_F23044	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94927_MY21008_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S109-99579_F20033_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99886_F20057_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00095_MY23025_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-97878_MY22024_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S109-99983_F20071_TBB_sign	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00029_F22132_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94777_F21102	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99020_F21052_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00031_MY23008_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-97968_F22116_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98489_F22015_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99923_F20066_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99319_F21068_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00186_MY23046_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S109-99537_F20029_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99564_F22060_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98403_F21024_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99816_F20053_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89833_F20096_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00012_BR23003	Breast Cancer	NA	NA	NA	NA
+M112-00136_BR23040	Breast Cancer	NA	NA	NA	NA
+M111-00023_BR22064	Breast Cancer	NA	NA	NA	NA
+S111-98428_BR22015	Breast Cancer	NA	NA	NA	NA
+S111-98490_F22016_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99536_F20028_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97969_F22117	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99747_F20045_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99750_F20048_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00009_F22125_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99182_F22036_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97831_MY22022_TBB	Acute Promyelocytic Leukemia	NA	NA	NA	NA
+M112-00089_F23027_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94915_F21112_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00011_F22127_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94850_F21109_TBB	Thyroid Cancer	NA	NA	NA	NA
+M112-00176_F23055	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99360_F22048_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98018_F21002_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99727_F22069	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99030_F22029	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00003_F22123	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99047_F21054_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98990_F21051_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99863_F21087_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97968_F22116	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00079_BR23024	Breast Cancer	NA	NA	NA	NA
+S111-98944_BR22027	Breast Cancer	NA	NA	NA	NA
+S110-98532_BR21015	Ovarian Cancer	NA	NA	NA	NA
+S109-96878_BR20007	Ovarian Cancer	NA	NA	NA	NA
+S110-94848_F21107	Other Solid Tumor	NA	NA	NA	NA
+S111-97953_F22112_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97973_BR22058	Breast Cancer	NA	NA	NA	NA
+S110-98991_BR21028	Ovarian Cancer	NA	NA	NA	NA
+S110-99868_BR21045	Ovarian Cancer	NA	NA	NA	NA
+M112-00158_BR23046	Ovarian Cancer	NA	NA	NA	NA
+M112-00080_BR23025	Ovarian Cancer	NA	NA	NA	NA
+S111-99669_BR22039	Breast Cancer	NA	NA	NA	NA
+S111-98651_BR22019	Breast Cancer	NA	NA	NA	NA
+S111-99305_BR22029	Breast Cancer	NA	NA	NA	NA
+S111-99521_BR22034	Breast Cancer	NA	NA	NA	NA
+M112-00144_F23045	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98989_F21050	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99303_F22046	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98212_MY22001_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+M112-00154_MY23035_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S109-99535_F20027_TBB	Thyroid Cancer	NA	NA	NA	NA
+S111-99726_F22068_TBB	Melanoma	NA	NA	NA	NA
+S110-99264_F21065	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89776_F20089_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97831_MY22022-1_TBB	Acute Promyelocytic Leukemia	NA	NA	NA	NA
+S109-99477_F2021_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-89554_F21096	Gastric Cancer	NA	NA	NA	NA
+S111-99480_F22053	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99947_F21093_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94997_F21118_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00173_F23052	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00121_F23038	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97858_F22086	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97970_F22118	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98351_F22014	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00070_F23018	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99623_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00142_AS23027		NA	NA	NA	NA
+S110-99145_F21059	Other Solid Tumor	NA	NA	NA	NA
+S110-98263_F21018_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00091_F23029	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00174_F23053	Neuroendocrine Carcinoma	NA	NA	NA	NA
+S110-98322_F21020_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98468_F21031_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89712_F20084	Liver Cancer	NA	NA	NA	NA
+M112-00083_F23023_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89673_F20080_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99727_F22069_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89734_F20085_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00177_F23056_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97886_F22096	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00022_MY23007_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S109-99521_F20026_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99891_F20062_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97808_F22074_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98404_F21025_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99166_F21062_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97942_F22108_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97920_MY22029_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-99612_F22064_TBB	Melanoma	NA	NA	NA	NA
+S110-99146_F21060_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98324_BR21005	Ovarian Cancer	NA	NA	NA	NA
+S111-98034_F22001	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98943_F22027_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00116_BR23036_old	Breast Cancer	NA	NA	NA	NA
+S111-97971_F22119_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00116_BR23036	Breast Cancer	NA	NA	NA	NA
+S109-89790_F20090_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99565_F22061_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94996_F21117_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98405_F21026_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98619_F21036_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97822_F22077_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99303_F22046_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97937_F22106	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99747_MY22019_TBB	Acute Lymphoblastic Leukemia	NA	NA	NA	NA
+S111-97941_F22107_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00067_F23015_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99819_F21084_TBB	Head and Neck Cancer	NA	NA	NA	NA
+M112-00090_F23028_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98648_F22019_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98036_F22003_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98106_F22005_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99610_F22062_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99888_F20059_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98961_F21048_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94995_F21114_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97835_F22081_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94846_F21105_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99180_F22034_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99690_F20044_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00146_F23047	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00026_F23006_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99538_F20030_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97857_F22085_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98531_F21033_TBB	Colon Cancer	NA	NA	NA	NA
+S110-98407_F21028_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89710_F20082_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00090_F23028	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00114_F23037_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89816_F20095_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97972_F22120_TBB_Global	Pancreatic Cancer	NA	NA	NA	NA
+S111-97972_F22120_TBB_taiwan	Pancreatic Cancer	NA	NA	NA	NA
+S111-99302_F22045_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98697_F21038_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97936_F22105_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98242_F21014_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89710_F20082_old_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99885_F20056_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99320_F21069_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97852_MY22023_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S111-97875_F22093_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99563_F22059_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98213_MY22002_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-97970_F22118_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00064_MY23019_TBB	Other Hematological Cancer	NA	NA	NA	NA
+M112-00172_MY23040_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-98185_F21009_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98408_F21029_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00156_F23049_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99818_F20055_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96834_F20110_TBB	Other Solid Tumor	NA	NA	NA	NA
+S109-99893_F20064_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00001_F23001_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00059_F23013_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97823_F22078_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99212_F22041_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99304_F22047_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00017_F23004_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96837_F20113_TBB	Liver Cancer	NA	NA	NA	NA
+S110-98843_F21042_TBB	Gastrointestinal Stromal Tumor	NA	NA	NA	NA
+S111-97858_F22086_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00096_F23031_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00071_F23019_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00188_F23057_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96876_F20116_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00004_MY23002_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-99265_F21066_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99378_F21070_TBB	Other Solid Tumor	NA	NA	NA	NA
+M112-00112_MY23027_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-99746_MY22018_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+M112-00122_F23039_TBB	Bladder Urothelial Carcinoma	NA	NA	NA	NA
+M112-00066_MY23022_TBB	Myeloproliferative Neoplasms	NA	NA	NA	NA
+S110-98127_F21007_TBB	Head and Neck Cancer	NA	NA	NA	NA
+S109-99669_F20041_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00068_F23016__preliminary	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97969_F22117_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99624_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00006_F23002_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00081_F23021_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94702_F21100_TBB	Cholangiocarcinoma	NA	NA	NA	NA
+M112-00182_MY23042_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+M112-00147_F23048_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00003_F22123_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97952_F22111_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00054_F23014_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99046_F21053_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97885_F22095_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98209_F22011_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98764_F21040_TBB_510	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99967_F20067_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89672_F20079_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98764_F21040_TBB_516	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94848_F21107_TBB	Other Solid Tumor	NA	NA	NA	NA
+S111-97874_F22092_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00101_F23034_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89601_F20072TBB	Thyroid Cancer	NA	NA	NA	NA
+M112-00144_F23045_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00146_F23047_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89666_F20076_TBBpdf	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98989_F21050_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98908_F21046_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99594_F21078_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99769_F20049_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89838_F20101_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96875_F20114_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00175_F23054_TBB	Cholangiocarcinoma	NA	NA	NA	NA
+M112-00166_AS23031		NA	NA	NA	NA
+S110-98017_F21001_TBB	Colorectal Cancer	NA	NA	NA	NA
+M111-00001_F22121_TBB	Rectal Cancer	NA	NA	NA	NA
+M112-00091_F23029_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00123_F23040_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89815_F20094_TBB	Melanoma	NA	NA	NA	NA
+S111-97836_F22082	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00143_F23044_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+AS23004		NA	NA	NA	NA
+AS22031		NA	NA	NA	NA
+AS21003		NA	NA	NA	NA
+M112-00082_F23022_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+AS22012		NA	NA	NA	NA
+S110-99867_F21091_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94777_F21102_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98035_F22002_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98207_F22009_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99749_F20047_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98721_F22023_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99560_F22056	Thyroid Gland Medullary Carcinoma	NA	NA	NA	NA
+S111-97876_F22094	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98034_F22001_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99421_F22051	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00027_F22131	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98892_F21044	Liver Cancer	NA	NA	NA	NA
+S109-99688_F20042_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+F23003	Liver Cancer	NA	NA	NA	NA
+S111-97834_F22080_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98208_F22010_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97897_F22099_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99030_F22029_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97935_F22104_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97937_F22106_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96833_F20109_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99876_F22072_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98844_F21043_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99165_F21061_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99144_F21058_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99167_F21063_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98364_MY22006_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+S110-98128_F21008_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89773_F20088_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89736_F20087_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89791_F20091_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89792_F20092_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99890_F20061_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99820_F21085_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00044_F23010_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97809_F22075_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99865_F21089_TBB	Thyroid Cancer	NA	NA	NA	NA
+S110-99500_F21075_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99889_F20060_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98406_F21027_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97833_F22079_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00068_F23016_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98206_F22008_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98722_F22024_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99088_F22030_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99922_F20065_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97912_F22101_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99480_F22053_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94638_F21098_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99499_F21074_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99168_F21064_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00027_F23007_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99090_F21056_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99501_F21076_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89872_F20105_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98094_F21003_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+AS23005		NA	NA	NA	NA
+M112-00151_AS23028		NA	NA	NA	NA
+M112-00141_AS23024		NA	NA	NA	NA
+S110-99264_F21065_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+AS22025		NA	NA	NA	NA
+M112-00030_AS23007		NA	NA	NA	NA
+AS22007		NA	NA	NA	NA
+AS22002		NA	NA	NA	NA
+AS22018		NA	NA	NA	NA
+AS22019		NA	NA	NA	NA
+AS22021		NA	NA	NA	NA
+S110-99779_F21083_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00036_F22134_TBB	Breast Cancer	NA	NA	NA	NA
+M112-00043_MY23015_TBB	Myeloid/Lymphoid Neoplasms with Eosinophilia	NA	NA	NA	NA
+S110-98262_F21017_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00185_MY23045_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S109-89670_F20077_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98323_F21021_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99689_F20043_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98749_MY21006_TBB	Other Hematological Cancer	NA	NA	NA	NA
+S111-98807_F22025_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99210_F22039_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99181_F22035_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00036_F23009_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97865_F22089_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97873_F22091_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97967_F22115_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00069_F23017_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00034_F23008_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97898_MY22025_TBB	Other Hematological Cancer	NA	NA	NA	NA
+S111-99622_MY22014_TBB	Other Hematological Cancer	NA	NA	NA	NA
+M112-00009_MY23004_TBB	Other Hematological Cancer	NA	NA	NA	NA
+S110-98240_F21012_TBB	Soft Tissue Sarcoma	NA	NA	NA	NA
+S109-89871_F20103_TBB	Other Solid Tumor	NA	NA	NA	NA
+S111-99361_F22049_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97913_F22102_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00035_MY22039_TBB	Non-Hodgkin's Lymphoma	NA	NA	NA	NA
+M112-00076_MY23023_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S109-99625_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99209_F22038_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-99478_F2022_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99301_F22042_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97851_F22084_TBB	Colon Cancer	NA	NA	NA	NA
+S109-99817_F20054_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-96819_F20107_TBB	Melanoma	NA	NA	NA	NA
+S111-97923_F22103_TBB	Cervical Cancer	NA	NA	NA	NA
+S111-97886_F22096_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99029_F22028_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-89469_F21094	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00069_F23017	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00176_F23055_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+AS21007	Hepatocellular_carcinoma	NA	NA	NA	NA
+M112-00162_AS23025		NA	NA	NA	NA
+AS22028		NA	NA	NA	NA
+AS22032		NA	NA	NA	NA
+M112-00124_F23041_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00084_AS23014		NA	NA	NA	NA
+S109-89602_F20073_TBB	Liver Cancer	NA	NA	NA	NA
+M112-00164_AS23030		NA	NA	NA	NA
+M112-00180_AS23033		NA	NA	NA	NA
+M112-00163_AS23029		NA	NA	NA	NA
+M112-00128_AS23022		NA	NA	NA	NA
+M112-00167_AS23032		NA	NA	NA	NA
+M112-00039_AS23008		NA	NA	NA	NA
+AL22002		NA	NA	NA	NA
+M112-00118_AS23019		NA	NA	NA	NA
+AS22027		NA	NA	NA	NA
+AS22035		NA	NA	NA	NA
+AS22026		NA	NA	NA	NA
+AS21004		NA	NA	NA	NA
+AS22038		NA	NA	NA	NA
+AS22011		NA	NA	NA	NA
+AS22016		NA	NA	NA	NA
+AL23001		NA	NA	NA	NA
+AS22030		NA	NA	NA	NA
+AL21001		NA	NA	NA	NA
+S109-99982_F20070_TBB	Other Solid Tumor	NA	NA	NA	NA
+S109-99892_F20063_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98261_F21016_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M111-00002_F22122_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00134_F23043_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97836_F22082_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-89554_F21096_TBB	Gastric Cancer	NA	NA	NA	NA
+M112-00184_MY23044_TBB	Myeloid/Lymphoid Neoplasms with Eosinophilia	NA	NA	NA	NA
+S109-89711_F20083_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98264_F21019_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89603_F20074_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89834_F20097_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89837_F20100_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98095_F21004_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98241_F21013_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98698_F21039_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99560_F22056_TBB	Thyroid Gland Medullary Carcinoma	NA	NA	NA	NA
+M112-00173_F23052_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89814_F20093_TBB	Small Cell Lung Cancer	NA	NA	NA	NA
+S110-98701_MY21005_TBB	Acute Myeloid Leukemia	NA	NA	NA	NA
+M111-00027_F22131_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00018_F23005_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00070_F23018_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00098_F23033_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00121_F23038_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-89469_F21094_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-94636_F21099_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S110-99946_F21092_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97837_F22083_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-97876_F22094_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-98351_F22014_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99089_F22031_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99091_F22033_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S111-99421_F22051_TBB	Non-Small Cell Lung Cancer	NA	NA	NA	NA
+S109-89836_F20099_TBB	Head and Neck Cancer	NA	NA	NA	NA
+S110-94692_MY21007_TBB	Acute Lymphoblastic Leukemia	NA	NA	NA	NA
+S111-97896_F22098_TBB	Small Cell Lung Cancer	NA	NA	NA	NA
+M112-00021_MY23006_TBB	Other Hematological Cancer	NA	NA	NA	NA
+S111-97806_MY22021_TBB	Other Hematological Cancer	NA	NA	NA	NA
+S111-99724_MY22017_TBB	Other Hematological Cancer	NA	NA	NA	NA
+S109-89870_F20102_TBB	Other Solid Tumor	NA	NA	NA	NA
+S109-99815_F20052_TBB	Other Solid Tumor	NA	NA	NA	NA
+S110-98260_F21015_TBB	Other Solid Tumor	NA	NA	NA	NA
+S110-99145_F21059_TBB	Other Solid Tumor	NA	NA	NA	NA
+M112-00169_MY23037_TBB	Large B-Cell Lymphoma	NA	NA	NA	NA
+M112-00133_F23042_TBB	Head and Neck Cancer	NA	NA	NA	NA
+S111-97966_F22114_TBB	Head and Neck Cancer	NA	NA	NA	NA
+M112-00042_MY23014_TBB	Myeloproliferative Neoplasms	NA	NA	NA	NA
+M111-00016_MY22036_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+M112-00120_MY23029_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+M112-00171_MY23039_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S111-99176_MY22012_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+S109-96818_F20106_TBB	Other Solid Tumor	NA	NA	NA	NA
+M111-00026_MY22037_TBB	Myelodysplastic Syndrome	NA	NA	NA	NA
+M112-00174_F23053_TBB	Neuroendocrine Carcinoma	NA	NA	NA	NA
+S109-89712_F20084_TBB	Liver Cancer	NA	NA	NA	NA
+S110-98892_F21044_TBB	Liver Cancer	NA	NA	NA	NA
+M111-00015_MY22035_TBB	Multiple Myeloma	NA	NA	NA	NA
+S110-98988_F21049_TBB	Leiomyosarcoma	NA	NA	NA	NA
+M112-00127_AS23021-1		NA	NA	NA	NA
+M112-00040_AS23009		NA	NA	NA	NA
+M112-00085_AS23015		NA	NA	NA	NA
+M112-00025_AS23006		NA	NA	NA	NA
+M112-00048_AS23010		NA	NA	NA	NA
+M112-00126_AS23020		NA	NA	NA	NA
+M112-00094_AS23016		NA	NA	NA	NA
+M112-00189_AS23034		NA	NA	NA	NA
+M112-00150_AS23026		NA	NA	NA	NA
+M112-00053_AS23011		NA	NA	NA	NA
+M112-00061_AS23012		NA	NA	NA	NA
+M112-00062_AS23013		NA	NA	NA	NA
+M112-00100_AS23017		NA	NA	NA	NA
+M112-00111_AS23018		NA	NA	NA	NA
+M112-00127_AS23021		NA	NA	NA	NA
+M112-00140_AS23023		NA	NA	NA	NA
+AS22024		NA	NA	NA	NA
+AS21005		NA	NA	NA	NA
+AS22029		NA	NA	NA	NA
+AS23003		NA	NA	NA	NA
+AS22039		NA	NA	NA	NA
+AS22040		NA	NA	NA	NA
+AS22003		NA	NA	NA	NA
+AS22004		NA	NA	NA	NA
+AS22008		NA	NA	NA	NA
+AS22009		NA	NA	NA	NA
+AS22010		NA	NA	NA	NA
+AS22013		NA	NA	NA	NA
+AS22014		NA	NA	NA	NA
+AS22020		NA	NA	NA	NA
+AS22033		NA	NA	NA	NA
+AS22036		NA	NA	NA	NA
+AS22037		NA	NA	NA	NA
+AS21001		NA	NA	NA	NA
+AS21002		NA	NA	NA	NA
+AS21006		NA	NA	NA	NA
+AS22001		NA	NA	NA	NA
+AS22006		NA	NA	NA	NA
+AS22017		NA	NA	NA	NA
+AS22022		NA	NA	NA	NA
+AS22023		NA	NA	NA	NA
+AS22034		NA	NA	NA	NA
+AS23001		NA	NA	NA	NA
+AS23002		NA	NA	NA	NA

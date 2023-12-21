@@ -1,0 +1,6 @@
+type_of_cancer: vghtpe
+cancer_study_identifier: report_report_2_test_1221
+name: report_report_2_test_1221 (2023)
+description: Mutation data for whole-exome sequencing of cancers were extracted from diagnostic reports.
+add_global_case_list: true
+groups: PUBLIC

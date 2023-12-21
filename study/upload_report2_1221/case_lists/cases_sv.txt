@@ -1,0 +1,6 @@
+cancer_study_identifier: report_report_1_test_1221
+stable_id: report_report_1_test_1221_sv
+case_list_name: Samples with sv data
+case_list_description: Samples with sv data
+case_list_category: all_cases_with_sv_data
+case_list_ids:	M111-10022_PT22091	S111-98736_PT22010	S111-97826_PT22048	S111-97855_PT22061	S111-97855_PT22061	M112-10065_PT23030
