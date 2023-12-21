@@ -185,44 +185,44 @@ def simplify_report_names(df, assay_list):
             df.at[index, "REPORT_TEST_ASSAY"] = matching_reports[0]
     return df
 
-# 從 Seqslab 撈取需要用到的資料
-print('------------------------------------ Start to Download Data from Seqslab ------------------------------------')
-# 指定要下载的文件的URL和文件名
-file_info = [
-    {'url': 'https://vghtpe685c2storage.blob.core.windows.net/seqslab/drs/usr_admin_vghtpe/fTJGZDsbPR74YvfR4ZJMs7/vghtpe_report_1_maf_icd10_icd_o.json?st=2023-10-30T01%3A31%3A47Z&se=2023-11-30T00%3A00%3A00Z&sp=rle&spr=https&sv=2020-06-12&sr=b&sig=43w8YchneqGXnDvAd4AqvsPruT5u7yL6Gi1uXvRLjhY%3D',
-     'save_name': 'vghtpe_report_1_maf_icd10_icd_o.json'},
-    {'url': 'https://vghtpe685c2storage.blob.core.windows.net/seqslab/drs/usr_admin_vghtpe/fTJGZDsbPR74YvfR4ZJMs7/vghtpe_report_2_maf_icd10_icd_o.json?st=2023-10-30T01%3A31%3A47Z&se=2023-11-30T00%3A00%3A00Z&sp=rle&spr=https&sv=2020-06-12&sr=b&sig=BLjP4LBmf6pN0cWIiCETD4WxDhxQr0M1jFKVJr4sdZE%3D',
-     'save_name': 'vghtpe_report_2_maf_icd10_icd_o.json'}
-]
+# # 從 Seqslab 撈取需要用到的資料
+# print('------------------------------------ Start to Download Data from Seqslab ------------------------------------')
+# # 指定要下载的文件的URL和文件名
+# file_info = [
+#     {'url': 'https://vghtpe685c2storage.blob.core.windows.net/seqslab/drs/usr_admin_vghtpe/fTJGZDsbPR74YvfR4ZJMs7/vghtpe_report_1_maf_icd10_icd_o.json?st=2023-10-30T01%3A31%3A47Z&se=2023-11-30T00%3A00%3A00Z&sp=rle&spr=https&sv=2020-06-12&sr=b&sig=43w8YchneqGXnDvAd4AqvsPruT5u7yL6Gi1uXvRLjhY%3D',
+#      'save_name': 'vghtpe_report_1_maf_icd10_icd_o.json'},
+#     {'url': 'https://vghtpe685c2storage.blob.core.windows.net/seqslab/drs/usr_admin_vghtpe/fTJGZDsbPR74YvfR4ZJMs7/vghtpe_report_2_maf_icd10_icd_o.json?st=2023-10-30T01%3A31%3A47Z&se=2023-11-30T00%3A00%3A00Z&sp=rle&spr=https&sv=2020-06-12&sr=b&sig=BLjP4LBmf6pN0cWIiCETD4WxDhxQr0M1jFKVJr4sdZE%3D',
+#      'save_name': 'vghtpe_report_2_maf_icd10_icd_o.json'}
+# ]
 
-# 指定文件的保存路径
-save_path = 'path_to_save_file'  # 替換為實際要保存文件的路徑(從 seqslab 下載下來的 json 檔存放的路徑)
+# # 指定文件的保存路径
+# save_path = 'path_to_save_file'  # 替換為實際要保存文件的路徑(從 seqslab 下載下來的 json 檔存放的路徑)
 
-# 循環迭代 url 列表以下載 .json 文件
-for file in file_info:
-    file_url = file['url']
-    save_name = file['save_name']
-    save_path_full = os.path.join(save_path, save_name)
+# # 循環迭代 url 列表以下載 .json 文件
+# for file in file_info:
+#     file_url = file['url']
+#     save_name = file['save_name']
+#     save_path_full = os.path.join(save_path, save_name)
 
-    # 取得要儲存文件的目錄
-    save_dir = os.path.dirname(save_path_full)
+#     # 取得要儲存文件的目錄
+#     save_dir = os.path.dirname(save_path_full)
 
-    # 檢查該目錄是否存在，若不存在則創建該目錄
-    if not os.path.exists(save_dir):
-        os.makedirs(save_dir)
+#     # 檢查該目錄是否存在，若不存在則創建該目錄
+#     if not os.path.exists(save_dir):
+#         os.makedirs(save_dir)
 
-    # 發送 GET 請求並下載文件
-    response = requests.get(file_url)
+#     # 發送 GET 請求並下載文件
+#     response = requests.get(file_url)
 
-    # 檢查響應狀態碼
-    if response.status_code == 200:
-        with open(save_path_full, 'wb') as file:
-            file.write(response.content)
-        print(f'document is successfully download to : {save_path_full}')
-        # print('\n') # 空行
-    else:
-        print(f'failed to download: {response.status_code}')
-        # print('\n') # 空行
+#     # 檢查響應狀態碼
+#     if response.status_code == 200:
+#         with open(save_path_full, 'wb') as file:
+#             file.write(response.content)
+#         print(f'document is successfully download to : {save_path_full}')
+#         # print('\n') # 空行
+#     else:
+#         print(f'failed to download: {response.status_code}')
+#         # print('\n') # 空行
 
 # 要讀取的JSON文件路徑列表
 json_file_paths = [
