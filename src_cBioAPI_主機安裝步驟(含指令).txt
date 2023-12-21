@@ -59,6 +59,9 @@ sudo pip install -r requirements.txt
 ## 執行 f2_cbioportal_preprocess.py
 python3 f2_cbioportal_preprocess.py
 
+## 檢查 study (data_upload 是存放上傳 .txt 的路徑資料夾) 是否已經符合上傳條件
+sudo docker compose run cbioportal validateData.py -s study/data_upload/ -u http://cbioportal:8080 -v
+
 ## 上傳 study (data_upload 是存放上傳 .txt 的路徑資料夾)
 sudo docker compose run cbioportal metaImport.py -u http://cbioportal:8080 -s study/data_upload/ -o
 
