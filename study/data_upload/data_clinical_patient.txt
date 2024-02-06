@@ -1,0 +1,1195 @@
+#Patient Identifier	Diagnosis	Overall Survival Status	Age	Gender	ETHICITY
+#Identifier to uniquely specify a patient.	Type of disease determined through pathology examination.	Overall patient survival status.	Age at which a condition or disease was first diagnosed.	The gender of the patient.	Ethicity.
+#STRING	STRING	NUMBER	NUMBER	STRING	STRING
+#1	1	1	1	1	1
+PATIENT_ID	DIAGNOSIS	STAGE	AGE	GENDER	ETHNICITY
+S111-98294_F22013	Metastatic adenocarcinoma, Cerebellum	NA	NA	Male	NA
+S111-98928_PT22017	Cholangiocarcinoma, Whipple	NA	NA	Female	NA
+S111-98953_PT22019	Angiosarcoma, Pleural	NA	NA	Male	NA
+S110-99950_PT21019	Osteosarcoma, Bone	NA	NA	Female	NA
+M112-00159_BR23047	Adenocarcinoma, endometrioid type, Ovary	NA	NA	Female	NA
+S109-96878_BR20007	Clear cell carcinoma, Ovary	NA	NA	Female	NA
+M112-00169_MY23037	Suspect large B cell lymphoma, suggest  x000D systemic survey	NA	NA	Female	NA
+S110-94835_PT21038	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-99750_F20048	Adenocarcinoma	NA	NA	Male	NA
+S111-97858_F22086	Squamous cell carcinoma, Lung	NA	NA	Male	NA
+M111-10021_PF22130	Metastatic adenocarcinoma	NA	NA	Female	NA
+S110-94845_F21104	Metastatic carcinoma	NA	NA	Male	NA
+S111-98886_BR22025	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-98910_BR21025	Adenocarcinoma, Ovary	NA	NA	Female	NA
+S111-97914_BR22053	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-98127_F21007	Secretory carcinoma	NA	NA	Female	NA
+M112-00067_F23015	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-89601_F20072	Metastatic medullary thyroid carcinoma	NA	NA	Male	NA
+M112-10048_PF23015	Bladder carcinoma (NOS)	NA	NA	Male	NA
+S111-98365_PF22009	Atypical meningioma	NA	NA	Female	NA
+M111-10012_PT22086	Hemangioendothelioma, Left neck	NA	NA	Male	NA
+S109-89791_F20091	Adenocarcinoma	NA	NA	Female	NA
+S111-97819_PT22045	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+M112-00098_F23033	Malignant tumor, favor sarcomatoid carcinoma, Lung	NA	NA	Male	NA
+M111-10043_PT22097	Mixed small cell neuroendocrine carcinoma and invasive urothelial carcinoma 	NA	NA	Male	NA
+S111-98723_BR22021	Primary peritoneal serous carcinoma (PPSC), Omentum	NA	NA	Female	NA
+M112-00069_F23017	Poorly differentiated carcinoma	NA	NA	Female	NA
+S111-99363_BR22031	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97896_F22098	Small cell carcinoma, Lung	NA	NA	Male	NA
+S111-97959_PT22079	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-10080_PF23031	Pancreas ductal adenocarcinoma	NA	NA	Male	NA
+S111-99187_PF22055	Rectum neuroendocrine tumor (From clinical diagnosis)	NA	NA	Male	NA
+S110-94778_F21103	Adenocarcinoma	NA	NA	Male	NA
+S110-98991_BR21028	High-grade serous carcinoma, Fallopian tube	NA	NA	Female	NA
+M112-10032_PT23008	Lung squamous cell carcinoma	NA	NA	Male	NA
+S111-98735_PT22012	Neuroendocrine carcinoma	NA	NA	Male	NA
+S111-98035_F22002	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-98234_PF22003	Adenocarcinoma, Lung	NA	NA	Male	NA
+S110-98403_F21024	Adenocarcinoma	NA	NA	Female	NA
+S111-97881_PF22096	Gliosarcoma, Cerebrum	NA	NA	Male	NA
+S111-98352_BR22014	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+M112-00068_F23016	Non-small cell carcinoma, favor adenocarcinoma, Lung	NA	NA	Male	NA
+S111-97876_F22094	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-99422_F22052	Adenocarcinoma, Lung	NA	NA	Male	NA
+S111-97921_MY22030	Acute Myeloid Leukemia	NA	NA	Male	NA
+S111-99560_F22056	Medullary carcinoma, Thyroid	NA	NA	Female	NA
+S111-98297_TM22001	Adenocarcinoma, metastatic, Liver	NA	NA	Male	NA
+S111-99183_F22037	Metastatic adenocarcinoma, Cerebrum	NA	NA	Female	NA
+S111-97808_F22074	Adenocarcinoma, Lung	NA	NA	Female	NA
+S110-89555_TM21012	Hepatocellular carcinoma	NA	NA	Male	NA
+S111-97923_TM22012	Compatible with metastatic carcinoma, Lung	NA	NA	Female	NA
+M112-00107_BR23032	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M111-00014_MY22034	Chronic Myelomonocytic Leukemia	NA	NA	Male	NA
+M112-10075_PG23005	Lung adenocarcinoma	NA	NA	NA	NA
+S111-97966_F22114	Metastatic carcinoma, Lung	NA	NA	Male	NA
+M111-10046_PT22100	Hepatocellular carcinoma	NA	NA	Male	NA
+S111-98708_PF22032	Hepatocellular carcinoma, Liver	NA	NA	Female	NA
+S110-98531_F21033	Metastatic adenocarcinoma	NA	NA	Female	NA
+M112-00079_BR23024	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-98002_PF21065	Adenocarcinoma, Liver	NA	NA	Male	NA
+S109-99796_F20051	Adenocarcinoma	NA	NA	Female	NA
+S111-97904_PF22103	Anaplastic astrocytoma, Cerebrum	NA	NA	Female	NA
+S109-99577_F20031	Metastatic adenocarcinoma	NA	NA	Male	NA
+S111-98492_BR22016	Breast Lumps	NA	NA	Female	NA
+M112-10021_PG23001	Lung adenocarcinoma	NA	NA	NA	NA
+S111-99667_F22065	Metastatic adenocarcinoma	NA	NA	Female	NA
+S111-99876_F22072	Metastatic adenocarcinoma	NA	NA	Male	NA
+S110-94702_F21100	Cholangiocarcinoma	NA	NA	Male	NA
+S109-99982_F20070	Malignant tumor	NA	NA	Male	NA
+M112-00051_MY23018	Acute Myeloid Leukemia	NA	NA	Female	NA
+S111-99481_F22055	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-10022_PG23002	Lung adenocarcinoma	NA	NA	NA	NA
+S110-94858_PF21063	Pancreatic poorly differentiated carcinoma (From clinical diagnosis)	NA	NA	Female	NA
+S110-98325_BR21006	Carcinoma, mixed endometrioid and clear cell type, Ovary	NA	NA	Female	NA
+M111-10027_PF22132	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+S109-89602_F20073	Adenocarcinoma	NA	NA	Female	NA
+S110-99816_PG21006	Lung adenocarcinoma	NA	NA	NA	NA
+S111-99029_F22028	Metastatic adenocarcinoma	NA	NA	Male	NA
+S109-99289_F20007	Adenocarcinoma	NA	NA	Male	NA
+M112-10029_PT23005	Adrenocortical carcinoma	NA	NA	Male	NA
+S111-97910_PF22107	Cholangiocarcinoma, Liver (From clinical diagnosis)	NA	NA	Male	NA
+S111-97928_BR22056	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97873_F22091	Non-small cell carcinoma, favor adenocarcinoma	NA	NA	Male	NA
+M112-00001_F23001	Metastatic carcinoma	NA	NA	Male	NA
+S111-99113_PF22053	Poorly differentiated adenocarcinoma, Soft tissue	NA	NA	Male	NA
+S111-99564_F22060	Non-small cell carcinoma, favor adenosquamous 	NA	NA	Male	NA
+M112-00033_MY23010	Acute myeloid leukemia	NA	NA	Female	NA
+S110-94790_PT21035	Angiosarcoma, Lung	NA	NA	Female	NA
+S109-99889_F20060	Adenocarcinoma	NA	NA	Female	NA
+M111-00012_F22128	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-99521_F20026	Adenocarcinoma	NA	NA	Female	NA
+M111-00010_F22126	Metastatic carcinoma, Liver	NA	NA	Female	NA
+S110-99424_PF21003	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S110-94718_PT21032	Melanoma, Lymph node	NA	NA	Female	NA
+S111-99738_PF22073	Adenocarcinoma, Colon (From S110-37924)	NA	NA	Female	NA
+S111-99429_PT22027	Squamous cell carcinoma, Esophagus	NA	NA	Male	NA
+S111-97879_PG22008	Adenocarcinoma, Lung	NA	NA	NA	NA
+S110-98908_F21046	Adenocarcinoma	NA	NA	Female	NA
+M112-10069_PF23026	Unknown primary melanoma	NA	NA	Male	NA
+S110-99500_F21075	Adenocarcinoma	NA	NA	Male	NA
+M112-10086_PF23035	Colon adenocarcinoma (CRC)	NA	NA	Male	NA
+S111-98108_F22007	Metastatic adenocarcinoma, Cerebrum	NA	NA	Female	NA
+M112-00013_BR23004	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-00138_BR23042	Breast Cancer	NA	NA	Female	NA
+S110-98243_BR21003	Ductal carcinoma, Breast	NA	NA	Female	NA
+S111-98806_PF22038	 Anaplastic oligodendroglioma, Cerebrum	NA	NA	Female	NA
+S109-99579_F20033	Adenocarcinoma	NA	NA	Female	NA
+S109-89710_F20082	Adenocarcinoma	NA	NA	Male	NA
+S111-97900_MY22027	Chronic Myelomonocytic Leukemia	NA	NA	Female	NA
+S111-98962_PF22040	Germ cell tumor, Mediastinum	NA	NA	Male	NA
+M111-00036_F22134	Metastatic carcinoma, lymph node	NA	NA	Female	NA
+S111-98885_PG22005	Adenocarcinoma, Lung	NA	NA	NA	NA
+M112-10124_PT23053	Round cell sarcoma	NA	NA	Female	NA
+S110-98018_F21002	Metastatic carcinoma	NA	NA	Male	NA
+S110-89472_PF21029	Diffuse large B-cell lymphoma, Testis	NA	NA	Male	NA
+M112-00155_MY23036	Acute myeloid leukemia(AML) with NPM1 mutation, WHO 2022 x000D AML with mutated NPM1, ICC 2022 x000D 2022 ELN risk classification: intermediate  x000D 	NA	NA	Male	NA
+S110-89469_F21094	Metastatic adenocarcinoma	NA	NA	Female	NA
+M112-00036_F23009	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-98213_MY22002	Myelodysplastic Syndrome	NA	NA	Female	NA
+S110-94926_PT21039	Metastatic adenocarcinoma	NA	NA	Male	NA
+S109-99886_F20057	Adenocarcinoma	NA	NA	Male	NA
+S111-98209_F22011	Metastatic carcinoma, Bone	NA	NA	Male	NA
+S110-94927_MY21008	Myelodysplastic Syndrome	NA	NA	Male	NA
+S111-98296_BR22013	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S111-98207_F22009	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-00081_F23021	Poorly differentiated carcinoma	NA	NA	Male	NA
+S111-99637_PT22032	Hepatocellular carcinoma, Liver	NA	NA	Male	NA
+S110-99963_PT21016	Neuroendocrine tumor, Liver	NA	NA	Male	NA
+S111-97846_PT22057	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-99175_MY22011	Acute Myeloid Leukemia	NA	NA	Female	NA
+S108-98613_F19001	Metastatic adenocarcinoma	NA	NA	Male	NA
+M112-00179_BR23052	Breast Cancer	NA	NA	Female	NA
+S111-99226_PT22023	Pancreatic cancer, Pancreas	NA	NA	Female	NA
+S111-97801_PT22041	Small cell carcinoma, Lung	NA	NA	Female	NA
+S111-99033_PT22021	Ewing sarcoma, Lung	NA	NA	Female	NA
+S111-99623_MY22015	Myelodysplastic syndrome	NA	NA	Male	NA
+S111-99639_PF22069	Acinar adenocarcinoma, Prostate (From S106-61145)	NA	NA	Male	NA
+S111-99091_F22033	Adenocarcinoma, Lung	NA	NA	Male	NA
+M112-00130_MY23030	Acute myeloid leukemia(AML), myelodysplasia(MDS)-related, WHO 2022	NA	NA	Male	NA
+S110-98619_F21036	Metastatic carcinoma	NA	NA	Male	NA
+S110-89559_PF21041	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S110-94717_PT21031	Squamous cell carcinoma	NA	NA	Male	NA
+S110-94918_BR21059	Pancreas cancer	NA	NA	Male	NA
+S111-99302_F22045	Metastatic adenocarcinoma	NA	NA	Male	NA
+M112-10041_PT23014	Pancreatic cancer	NA	NA	Male	NA
+S111-99565_F22061	Non-small cell carcinoma, Lung	NA	NA	Male	NA
+M112-10025_PF23007	Colon adenocarcinoma (CRC)	NA	NA	Female	NA
+M112-10045_PG23003	Lung adenocarcinoma	NA	NA	NA	NA
+S108-98787_F19004	Metastatic carcinoma	NA	NA	Female	NA
+M112-00091_F23029	Adenocarcinoma, Lung	NA	NA	Male	NA
+M111-00002_F22122	Poorly differentiated carcinoma, Lung	NA	NA	Male	NA
+S111-97895_F22097	Metastatic carcinoma, Lymph node	NA	NA	Female	NA
+S111-99638_PT22033	Hepatocellular carcinoma, Liver	NA	NA	Male	NA
+S110-98323_F21021	Mucinous adenocarcinoma	NA	NA	Male	NA
+S111-98428_BR22015	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-10049_PF23016	Colon adenocarcinoma (CRC)	NA	NA	Male	NA
+S110-94791_PT21037	Chondrosarcoma, Left pelvic	NA	NA	Male	NA
+S111-99674_PF22071	Malignant melanoma, Skin	NA	NA	Female	NA
+S110-98405_F21026	Metastatic adenocarcinoma	NA	NA	Female	NA
+S111-99878_PT22039	Cholangiocarcinoma, Bile duct	NA	NA	Male	NA
+S111-97860_PF22089	Metastatic carcinoma, Lymph node	NA	NA	Female	NA
+S111-99532_PT22029	Neuroendocrine tumor, Liver	NA	NA	Male	NA
+S110-99715_BR21043	Ovarian cyst	NA	NA	Female	NA
+S111-97903_PF22099	 Atypical meningioma, Meninges	NA	NA	Male	NA
+S111-98489_F22015	Adenocarcinoma, Lung	NA	NA	Male	NA
+S111-98726_PF22033	Metastatic adenocarcinoma, Lung	NA	NA	Female	NA
+S110-94848_TM21014	Metastatic tumor with neuroendocrine differentiation, x000D Lymph node	NA	NA	Male	NA
+S110-99939_PF21031	Metastatic carcinoma, Liver	NA	NA	Male	NA
+M112-00185_MY23045	Pure red cell aplasia	NA	NA	Female	NA
+M112-10013_PF23003	Lung adenocarcinoma	NA	NA	Female	NA
+S110-99779_F21083	Non-small cell carcinoma	NA	NA	Female	NA
+S111-99879_PT22040	Small cell neuroendocrine carcinoma, Stomach	NA	NA	Male	NA
+S109-89776_F20089	Adenocarcinoma	NA	NA	Male	NA
+M112-10007_PT22104	Gist	NA	NA	Female	NA
+S111-98043_PT21042	Adenoid cystic carcinoma, Nasal cavity	NA	NA	NA	NA
+S111-98206_F22008	Non-small cell carcinoma, Lung	NA	NA	Female	NA
+M112-00089_F23027	Metastatic adenocarcinoma, Lymph node	NA	NA	Female	NA
+M112-00005_MY23003	Acute myeloid leukemia	NA	NA	Male	NA
+S111-98955_PF22041	Hepatocellular carcinoma, Liver	NA	NA	Male	NA
+S110-99813_PF21025	Glioblastoma, Cerebrum	NA	NA	Female	NA
+S109-99458_F20019	Metastatic adenocarcinoma	NA	NA	Unknown	NA
+S111-98665_PF22029	Glioblastoma, Cerebrum	NA	NA	Female	NA
+S111-97898_MY22025	Other Hematological Cancer	NA	NA	Female	NA
+M112-10058_PT23023	Sarcoma	NA	NA	Female	NA
+M112-10056_PF23022	Colon adenocarcinoma (CRC)	NA	NA	Female	NA
+S111-97913_F22102	Pleomorphic carcinoma, Lung	NA	NA	Male	NA
+S110-99597_BR21040	Adenocarcinoma, Ovary	NA	NA	Female	NA
+S110-94636_F21099	Poorly differentiated carcinoma	NA	NA	Female	NA
+S111-98807_F22025	Non-small cell carcinoma, Lung	NA	NA	Male	NA
+S111-98890_PF22039	Anaplastic astrocytoma, Brain	NA	NA	Male	NA
+S111-98430_MY22007	Acute Myeloid Leukemia	NA	NA	Female	NA
+S110-99947_F21093	Metastatic carcinoma	NA	NA	Female	NA
+M112-00093_BR23027	Ductal carcinoma in situ, Breast	NA	NA	Female	NA
+S110-99532_PF21010	 Stromal cell tumor (GIST), metastatic	NA	NA	Male	NA
+S111-99610_F22062	Adenocarcinoma, Pleural effusion	NA	NA	Female	NA
+M112-00157_F23050	Metastatic adenocarcinoma	NA	NA	Male	NA
+S110-99212_BR21031	High-grade serous carcinoma, Fallopian tube	NA	NA	Female	NA
+S111-98493_PF22015	Glioblastoma, Cerebrum	NA	NA	Female	NA
+M112-00113_MY23028	Acute myeloid leukemia(AML), myelodysplasia(MDS)-related,	NA	NA	Male	NA
+S109-99816_F20053	Adenocarcinoma	NA	NA	Female	NA
+S111-97851_TM22009	Adenocarcinoma, Ascending colon	NA	NA	Female	NA
+S111-99304_F22047	Adenocarcinoma, Lung	NA	NA	Female	NA
+S109-96822_BR20005	High-grade serous carcinoma, Fallopian tube	NA	NA	Female	NA
+M112-10042_PT23015	Malignant glomus tumor	NA	NA	Male	NA
+S111-99359_PF22061	Adenocarcinoma, Lung (From S110-17874)	NA	NA	Male	NA
+S109-89815_TM20005	Compatible with metastatic melanoma,  x000D Skin and soft tissue	NA	NA	Female	NA
+S110-99531_PF21009	Metastatic adenocarcinoma, Lung	NA	NA	Male	NA
+S111-99077_PF22048	Glioblastoma, Cerebrum	NA	NA	Female	NA
+M112-00103_F23036	Adenocarcinoma, Lung	NA	NA	Female	NA
+M111-10040_PF22144	Unknown primary neuroendocrine tumor (NET)	NA	NA	Male	NA
+S111-97848_PT22059	Metastatic melanoma, Soft tissue	NA	NA	Female	NA
+M112-10114_PG23007	Lung adenocarcinoma	NA	NA	NA	NA
+S110-99267_BR21034	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+M111-10026_PF22127	Compatible with anaplastic ependymoma, Brain	NA	NA	Female	NA
+S111-98517_PF22014	Glioblastoma, Cerebrum	NA	NA	Male	NA
+M112-00105_BR23030	Serous carcinoma, Ovary	NA	NA	Female	NA
+M112-00121_F23038	Adenocarcinoma, Lung	NA	NA	Male	NA
+M112-10019_PF22148	Unknown primary urothelial carcinoma	NA	NA	Female	NA
+S110-99868_BR21045	Clear cell carcinoma, Ovary	NA	NA	Female	NA
+M112-00066_MY23022	Myeloproliferative neoplasm, NOS	NA	NA	Female	NA
+S109-99749_F20047	Adenocarcinoma	NA	NA	Male	NA
+S111-98037_F22004	Metastatic carcinoma, Vertebra and soft tissue	NA	NA	Male	NA
+M112-10073_PG23004	Lung adenocarcinoma	NA	NA	NA	NA
+M111-10020_PF22113	Bilateral ovarian high grade serous carcinoma	NA	NA	Female	NA
+M112-00074_BR23021	Ductal carcinoma in situ, Breast	NA	NA	Female	NA
+S111-97828_PT22049	Malignant peripheral nerve sheath  tumor (MPNST), Small intestine	NA	NA	Male	NA
+S110-99573_PF21012	Anaplastic astrocytoma, Cerebrum	NA	NA	Male	NA
+M111-10022_PT22091	Lung adenocarcinoma	NA	NA	Female	NA
+S110-99887_PT21015	Cholangiocarcinoma, Liver	NA	NA	Male	NA
+S110-99499_F21074	Metastatic adenocarcinoma	NA	NA	Male	NA
+S111-99877_F22073	Metastatic carcinoma	NA	NA	Male	NA
+S111-98722_F22024	Carcinoma, Lung	NA	NA	Female	NA
+S109-96812_TM20008	Adenocarcinoma, metastatic	NA	NA	Female	NA
+S110-89477_PF21037	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+S111-97924_PF22108	Cholangiocarcinoma, Liver (From clinical diagnosis)	NA	NA	Male	NA
+M112-10108_PG23006	Lung adenocarcinoma	NA	NA	NA	NA
+S111-97938_PT22075	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+S111-97945_PT22076	Non-small cell carcinoma, Lung	NA	NA	Female	NA
+S110-94999_BR21062	Breast Lumps	NA	NA	Female	NA
+M112-10016_PT23001	Lung adenocarcinoma	NA	NA	Female	NA
+M111-10028_PF22133	Adenocarcinoma, Pancreas	NA	NA	Male	NA
+S110-94995_F21114	Metastatic adenocarcinoma	NA	NA	Female	NA
+S111-97807_BR22046	Family History Of Breast Cancer	NA	NA	Female	NA
+S109-89790_F20090	Metastatic carcinoma	NA	NA	Female	NA
+S109-99817_F20054	Squamous cell carcinoma	NA	NA	Female	NA
+M111-10019_PF22129	Metastatic carcinoma	NA	NA	Male	NA
+S110-98597_MY21004	MPN/ MDS overlap	NA	NA	Male	NA
+S111-99420_PF22059	Astrocytoma, Cerebrum	NA	NA	Male	NA
+S110-98989_F21050	Metastatic adenocarcinoma	NA	NA	Female	NA
+S110-99873_PG21009	Hepatocellular carcinoma	NA	NA	NA	NA
+S111-99613_BR22036	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-10061_PT23024	Angiosarcoma	NA	NA	Male	NA
+S110-99091_F21057	Adenocarcinoma	NA	NA	Female	NA
+S111-97909_MY22028	Blast Phase Chronic Myeloid Leukemia	NA	NA	Male	NA
+S110-99866_F21090	Adenocarcinoma	NA	NA	Female	NA
+M112-10051_PF23018	Lung squamous cell carcinoma (SCC)	NA	NA	Female	NA
+S111-98494_PF22016	Anaplastic astrocytoma, Cerebrum	NA	NA	Male	NA
+S110-99741_PF21026	 Lung adenocarcinoma	NA	NA	Male	NA
+S111-97949_PF22119	Adenocarcinoma, Rectum (From clinical diagnosis)	NA	NA	Male	NA
+M112-00095_MY23025	Acute myeloid leukemia(AML), NOS (2022 ICC), x000D AML defined by differentiation (2022 WHO).  x000D Compatible with intermediate risk (2022 ELN)	NA	NA	Female	NA
+S111-99732_BR22041	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-98499_MY22008	Acute Myeloid Leukemia	NA	NA	Male	NA
+S111-99188_PF22057	Adenocarcinoma, Duodenum	NA	NA	Female	NA
+M112-00088_F23026	Non-small cell carcinoma, Lung	NA	NA	Male	NA
+M112-00178_BR23051	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S111-98306_PT22003	 Metastatic hepatocellular carcinoma, Lung	NA	NA	Female	NA
+M112-00168_BR23050	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-99820_F21085	Adenocarcinoma	NA	NA	Female	NA
+S111-97893_PT22065	Poorly differentiated carcinoma, with squamoid differentiation, Pancreas	NA	NA	Female	NA
+S110-99814_PF21027	Adenocarcinoma, metastatic, Liver	NA	NA	Female	NA
+S111-98505_PF22019	Meningioma, Meninges	NA	NA	Female	NA
+S110-94773_PF21055	Pancreatic adenocarcinoma (From clinical diagnosis)	NA	NA	Female	NA
+S111-99088_F22030	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-10005_PT22103	Pancreatic cancer	NA	NA	Male	NA
+S110-98768_TM21006	Hepatocellular carcinoma, Liver	NA	NA	Male	NA
+S110-89449_PT21022	 Gastric adenocarcinoma, Colon	NA	NA	Female	NA
+S110-99092_BR21029	Primary peritoneal serous carcinoma, Omentum	NA	NA	Female	NA
+M112-10046_PT23019	Melanoma	NA	NA	Male	NA
+S111-98721_F22023	Adenocarcinoma, Lung	NA	NA	Female	NA
+M111-00003_F22123	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-99622_MY22014	Other Hematological Cancer	NA	NA	Female	NA
+S109-89735_F20086	Non-small cell carcinoma	NA	NA	Female	NA
+S110-99323_PG21001	Lung, adenocarcinoma	NA	NA	NA	NA
+S111-97931_PT22074	Metastatic lung adenocarcinoma, Pleura	NA	NA	Male	NA
+S110-98407_F21028	Adenocarcinoma	NA	NA	Female	NA
+S111-98364_MY22006	Acute Myeloid Leukemia	NA	NA	Female	NA
+S111-98286_PT22002	Chromophobe renal cell carcinoma, Kidney	NA	NA	Female	NA
+S110-99572_PT21007	Metastatic carcinoma, Lung	NA	NA	NA	NA
+S109-89711_F20083	Adenocarcinoma	NA	NA	Male	NA
+M112-10052_PF23019	Unknown primary adenoid cystic carcinoma	NA	NA	Female	NA
+S110-98350_BR21007	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S111-98635_PF22025	Metastatic pancreatic adenocarcinoma (From S111-89055)	NA	NA	Female	NA
+S111-98725_MY22010	Myelodysplastic Syndrome	NA	NA	Female	NA
+S109-99893_F20064	Adenocarcinoma	NA	NA	Male	NA
+S111-98038_BR22001	Invasive carcinoma, Breast	NA	NA	Female	NA
+S111-97934_PF22112	Metastatic adenocarcinoma, Omentum	NA	NA	Male	NA
+S110-99728_PF21023	Metastatic carcinoma, Liver	NA	NA	Male	NA
+S111-99421_F22051	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-89672_F20079	Metastatic carcinoma	NA	NA	Female	NA
+S110-98893_F21045	Adenocarcinoma	NA	NA	Female	NA
+S110-89479_PT21020	Pancreatic cancer, Pancreas	NA	NA	Male	NA
+S109-89668_TM20003	Metastatic carcinoma, Lymph node	NA	NA	Female	NA
+S110-99821_F21086	Metastatic adenocarcinoma	NA	NA	Female	NA
+S111-97827_PF22086	Adenocarcinoma, Lung (From clinical diagnosis)	NA	NA	Female	NA
+S111-97882_PF22097	Squamous cell carcinoma, Anus	NA	NA	Male	NA
+M112-00135_BR23039	Compatible with primary peritoneal high-grade serous carcinoma, Omentum	NA	NA	Female	NA
+S111-99366_PT22026	Pancreatic cancer, Pancreas	NA	NA	Female	NA
+S109-99818_F20055	Non-small cell carcinoma	NA	NA	Female	NA
+M111-10035_PF22141	Metastatic carcinoma	NA	NA	Female	NA
+M112-10093_PF23039	Esophagus squamous cell carcinoma (SCC)	NA	NA	Female	NA
+S111-97958_PF22118	Peritoneum serous carcinoma	NA	NA	Female	NA
+S110-98732_BR21018	Breast cancer	NA	NA	Female	NA
+M112-00139_BR23043	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+M112-00045_F23011	Adenocarcinoma, Lung	NA	NA	Male	NA
+S111-99430_PT22028	Metastatic Lung adenocarcinoma, Lymph node	NA	NA	Female	NA
+S111-99181_F22035	Adenocarcinoma, Lung	NA	NA	Male	NA
+M112-10033_PT23009	Compatible with metastatic granular cell tumor	NA	NA	Male	NA
+S111-99480_F22053	Adenocarcinoma, Lung	NA	NA	Male	NA
+S110-94914_F21111	Metastatic adenocarcinoma	NA	NA	Male	NA
+S111-97962_PT22080	Metastatic carcinoma, Uterus	NA	NA	Female	NA
+M111-00017_BR22062	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M111-10016_PT22090	Adenocarcinoma, Duodenum	NA	NA	Male	NA
+S109-99594_F20034	Metastatic carcinoma	NA	NA	Male	NA
+S111-97825_PT22047	Malignant peripheral nerve sheath tumor, Kidney	NA	NA	Male	NA
+S110-99668_PF21016	Metastatic adenocarcinoma, Abdominal wall	NA	NA	Female	NA
+M112-00086_F23024	Non-small cell carcinoma, Lung	NA	NA	Male	NA
+S111-97894_PT22069	Hepatocellular carcinoma, Liver	NA	NA	Female	NA
+S111-98650_BR22018	Endometrioid adenocarcinoma, Ovary	NA	NA	Female	NA
+S111-98963_PF22044	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S111-98309_PF22006	Unknown primary undifferentiated small cell carcinoma	NA	NA	Female	NA
+S111-97926_PF22110	Atypical meningioma, Meninges	NA	NA	Female	NA
+M112-00027_F23007	Adenocarcinoma, Lung	NA	NA	Female	NA
+S110-99948_BR21048	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-89491_PT21024	Osteosarcoma, Lung	NA	NA	Female	NA
+S111-97844_PF22087	Adenocarcinoma, Rectum (From S106-69122)	NA	NA	Female	NA
+M112-00133_F23042	Positive for squamous cell carcinoma, Left neck	NA	NA	Male	NA
+M112-00065_MY23021	Acute myeloid leukemia(AML) with NPM1 mutation (WHO  x000D 2022)(ICC 2022)	NA	NA	Male	NA
+M112-10009_PT22106	Pancreas, Adenocarcinoma	NA	NA	Female	NA
+S111-97906_PF22105	Adenocarcinoma, Stomach	NA	NA	Male	NA
+M112-00106_BR23031	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S110-99946_F21092	Malignant tumor	NA	NA	Male	NA
+M112-10059_PT23025	Lung adenocarcinoma	NA	NA	Male	NA
+S111-99112_PF22052	Lung adenocarcinoma	NA	NA	Male	NA
+S111-97972_TM22014	Adenocarcinoma, Pancreas	NA	NA	Male	NA
+S111-98652_BR22020	Invasive ductal carcinoma, Breast 	NA	NA	Female	NA
+M111-10033_PF22138	HPV-positive carcinoma	NA	NA	Male	NA
+S111-97843_PT22054	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+M112-10003_PF22147	Pancreas ductal adenocarcinoma	NA	NA	Male	NA
+S110-98360_MY21002	AML	NA	NA	Male	NA
+S109-96820_F20108	Metastatic carcinoma	NA	NA	Female	NA
+S110-94702_TM21013	Cholangiocarcinoma	NA	NA	Male	NA
+S111-99106_PG22006	Non-small cell lung carcinoma, Lung	NA	NA	NA	NA
+S111-97857_F22085	Metastatic carcinoma	NA	NA	Female	NA
+S109-89713_BR20003	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+M112-00182_MY23042	Myelodysplastic neoplasm (MDS) with increased blasts, WHO 2022 x000D Myelodysplastic syndrome/acute myeloid leukemia (MDS/AML), not  x000D otherwise specified, ICC 2022	NA	NA	Male	NA
+S109-89666_F20076	Adenocarcinoma	NA	NA	Male	NA
+S109-96835_F20111	Non-small cell carcinoma, possible adenosquamous carcinoma	NA	NA	Female	NA
+S111-97975_PF22070	Metastatic seminoma (From S111-17598)	NA	NA	Male	NA
+M112-00056_BR23016	Breast Cancer	NA	NA	Female	NA
+S111-98659_PF22024	 Hepatocellular carcinoma (From clincal diagnosis)	NA	NA	Female	NA
+M112-10047_PF23014	Unknown primary adenocarcinoma	NA	NA	Male	NA
+S111-98887_BR22026	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-00024_BR23007	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-98109_BR22003	Breast Cancer	NA	NA	Female	NA
+M111-10029_PF22136	Carcinoma, Parotid gland	NA	NA	Female	NA
+S110-98244_BR21004	Endometrioid adenocarcinoma, Ovary	NA	NA	Female	NA
+M111-10044_PT22098	Colon cancer	NA	NA	Male	NA
+S110-89574_PF21046	Adenocarcinoma, Pancreas (From clinical diagnosis)	NA	NA	Male	NA
+M112-10063_PT23028	Lung adenocarcinoma	NA	NA	Female	NA
+S110-99594_F21078	Adenocarcinoma	NA	NA	Male	NA
+M112-00120_MY23029	Myelodysplastic neoplasm (MDS), hypoplastic 	NA	NA	Male	NA
+S111-97864_F22088	Metastatic carcinoma	NA	NA	Female	NA
+S111-97957_PF22117	Metastatic adenocarcinoma, Liver	NA	NA	Female	NA
+M112-00171_MY23039	Erythroid hyperplasia, R/O MDS	NA	NA	Male	NA
+S111-97930_PG22013	Lung adenocarcinoma	NA	NA	NA	NA
+S110-94688_PT21029	Hepatocellular carcinoma, Perirenal fat	NA	NA	Male	NA
+S110-94919_BR21060	Ovarian serous carcinoma	NA	NA	Female	NA
+M111-10037_PF22142	Prostate acinar adenocarcinoma	NA	NA	Male	NA
+M111-10025_PT22093	Pancreatic cancer	NA	NA	Male	NA
+S111-97823_F22078	Adenocarcinoma, Pleural effusion	NA	NA	Female	NA
+S110-98094_F21003	Metastatic malignant tumor	NA	NA	Male	NA
+M112-10030_PT23006	Lung adenocarcinoma	NA	NA	Male	NA
+M112-00104_BR23029	Ductal carcinoma in situ, Breast	NA	NA	Female	NA
+S110-98322_F21020	Squamous cell carcinoma	NA	NA	Female	NA
+S110-99444_F21072	Adenocarcinoma	NA	NA	Male	NA
+S110-99265_F21066	Adenocarcinoma	NA	NA	Male	NA
+S109-99624_F20038	Adenocarcinoma	NA	NA	Female	NA
+S111-97970_F22118	Non-small cell carcinoma, favor adenocarcinoma, Lung	NA	NA	Female	NA
+M111-00028_BR22066	Breast cancer	NA	NA	Female	NA
+M111-10007_PT22082	Mucinous adenocarcinoma, Soft tissue	NA	NA	Male	NA
+S111-98426_TM22004	Solid pseudopapillary neoplasm, Pancreas	NA	NA	Male	NA
+S110-98261_F21016	Adenocarcinoma	NA	NA	Male	NA
+M111-10011_PF22125	Adenocarcinoma, Colon	NA	NA	Female	NA
+S110-98185_F21009	Adenocarcinoma	NA	NA	Female	NA
+S109-89870_F20102	Thymoma	NA	NA	Male	NA
+S110-99350_PG21002	Cholangiocarcinoma	NA	NA	NA	NA
+S109-89737_TM20004	Metastatic carcinoma, Lymph node	NA	NA	Male	NA
+S110-99498_F21073	Carcinoma	NA	NA	Male	NA
+S109-99489_F20023	Adenocarcinoma	NA	NA	Female	NA
+M112-10006_PF22149	Esophagus squamous cell carcinoma (SCC)	NA	NA	Male	NA
+M112-00145_F23046	Metastatic carcinoma	NA	NA	Female	NA
+S111-97908_PG22012	Non-Small Cell Lung Cancer (From clinical diagnosis)	NA	NA	NA	NA
+S110-94637_BR21051	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-00186_MY23046	Acute myeloid leukemia(AML) defined by differentiation, WHO 2022 x000D AML not otherwise specified, ICC 2022 x000D 2022 ELN risk classification: Intermediate	NA	NA	Female	NA
+S111-98114_BR22008	High-grade serous carcinoma, Omentum	NA	NA	Female	NA
+S110-99319_F21068	Adenocarcinoma	NA	NA	Female	NA
+S111-98350_PT22004	Adenoid cystic carcinoma, metastatic	NA	NA	Female	NA
+S109-96821_TM20009	Metastatic carcinoma, Liver	NA	NA	Female	NA
+M112-10040_PF23012	anaplastic astrocytoma (astrocytoma, IDH-mutant, grade 3)	NA	NA	Male	NA
+S109-89835_F20098	Adenocarcinoma	NA	NA	Female	NA
+S109-99892_F20063	Non-small cell carcinoma	NA	NA	Male	NA
+S109-89836_F20099	Squamous cell carcinoma	NA	NA	Male	NA
+S110-89557_PF21039	Neuroendocrine carcinoma, Pancreas  	NA	NA	Male	NA
+S111-98036_F22003	Non-small cell carcinoma, favor adenocarcinoma, Lung	NA	NA	Male	NA
+M112-10001_PF22145	Glioblastoma, Cerebrum	NA	NA	Male	NA
+M111-00015_MY22035	Multiple Myeloma	NA	NA	Female	NA
+S109-89849_TM20007	Small cell carcinoma, metastatic	NA	NA	Male	NA
+S111-97952_F22111	Metastatic carcinoma, Bone and soft tissue	NA	NA	Female	NA
+M112-10117_PF23054	Ovarian high-grade serous carcinoma	NA	NA	Female	NA
+M112-10128_PT23055	Pancreatic cancer	NA	NA	Male	NA
+S110-94786_PF21050	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S111-98044_PF21072	Glioblastoma, Cerebrum	NA	NA	Female	NA
+M112-00153_MY23034	Acute myeloid leukemia(AML) with NPM1 mutation, WHO 2022 x000D AML with mutated NPM1, ICC 2022 x000D 2022 ELN risk classification: favorable 	NA	NA	Male	NA
+S111-98500_PT22005	Hepatocellular carcinoma, Liver	NA	NA	Male	NA
+M112-00022_MY23007	Acute Myeloid Leukemia	NA	NA	Female	NA
+S109-99536_F20028	Adenocarcinoma	NA	NA	Female	NA
+M112-00112_MY23027	B-cell lymphoproliferative disease and/or  x000D myelodysplastic syndrome (MDS)	NA	NA	Female	NA
+S111-99367_MY22013	Myelodysplastic/ Myeloproliferative Neoplasm	NA	NA	Male	NA
+S110-98842_F21041	Metastatic carcinoma	NA	NA	Male	NA
+S111-98004_PF21067	Atypical meningioma, Meninges	NA	NA	Female	NA
+S110-89448_PT21014	Cholangiocarcinoma, Liver	NA	NA	Female	NA
+M111-00023_BR22064	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97969_F22117	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-99922_F20065	Metastatic carcinoma	NA	NA	Male	NA
+S109-96877_F20117	Metastatic carcinoma	NA	NA	Female	NA
+S111-97923_F22103	Compatible with metastatic carcinoma, Lung	NA	NA	Female	NA
+M112-00158_BR23046	Metastatic carcinoma, Omentum	NA	NA	Female	NA
+M112-10014_PF23004	Unknown primary sarcoma (NOS)	NA	NA	Female	NA
+M112-10103_PF23047	Unknown primary adenocarcinoma	NA	NA	Female	NA
+S110-99379_BR21036	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-98310_PF22007	Adenocarcinoma, Stomach 	NA	NA	Male	NA
+S110-99719_PF21021	Colon adenocarcinoma	NA	NA	Female	NA
+S109-99669_F20041	Adenocarcinoma	NA	NA	Male	NA
+S111-97964_MY22032	Acute Myeloid Leukemia	NA	NA	Male	NA
+S110-94691_PF21048	Metastatic adenocarcinoma, Lung	NA	NA	Female	NA
+S110-98017_TM21001	Adenocarcinoma, metastatic	NA	NA	Male	NA
+S111-97839_BR22049	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-98263_F21018	Adenocarcinoma	NA	NA	Male	NA
+S110-99778_F21082	Adenocarcinoma	NA	NA	Male	NA
+S111-99873_BR22044	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-98648_F22019	Non-small cell carcinoma, favor adenocarcinoma, Lung	NA	NA	Female	NA
+S111-97842_PT22055	Squamous cell carcinoma, Oropharynx	NA	NA	Male	NA
+S110-98064_BR21002	High-grade serous carcinoma	NA	NA	Female	NA
+M111-10030_PF22134	Adenocarcinoma, Duodenum	NA	NA	Female	NA
+S108-98931_F19005	Malignant tumor, compatible with sarcomatoid carcinoma	NA	NA	Male	NA
+S110-99828_PG21008	Head and neck carcinoma	NA	NA	NA	NA
+S110-99166_F21062	Non-small cell carcinoma	NA	NA	Male	NA
+S111-99563_F22059	Metastatic carcinoma	NA	NA	Female	NA
+S110-99653_PF21017	Small cell neuroendocrine carcinoma, Pancreas	NA	NA	Male	NA
+S111-97866_F22090	Pleural effusion, Adenocarcinoma	NA	NA	Male	NA
+M112-00011_BR23002	Endometrioid adenocarcinoma, Ovary	NA	NA	Female	NA
+S111-97976_PT22081	Spindle cell squamous cell carcinoma, Oropharynx	NA	NA	Male	NA
+M112-00082_F23022	Metastatic carcinoma	NA	NA	Female	NA
+S111-99721_PF22072	 Adenocarcinoma, Colon	NA	NA	Male	NA
+S110-98749_MY21006	Hypocellularity	NA	NA	Female	NA
+S110-98481_BR21013	Ovarian cancer	NA	NA	Female	NA
+S110-99654_PF21018	Carcinosarcoma, Uterus, endometrium, hysterectomy	NA	NA	Female	NA
+S111-98836_PT22014	EG junction adenocarcinoma,  Esophagogastric junction	NA	NA	Female	NA
+S110-94932_PF21059	Anaplastic ependymoma, Cerebrum	NA	NA	Female	NA
+S111-97821_PF22085	 Hepatocellular carcinoma, Liver (From S110-11427)	NA	NA	Female	NA
+S109-96836_F20112	Adenocarcinoma	NA	NA	Female	NA
+M112-10070_PF23027	Unknown primary urothelial carcinoma	NA	NA	Male	NA
+M111-10024_PT22092	Colon cancer	NA	NA	Male	NA
+S111-97891_PF22101	Glioblastoma, Cerebellum	NA	NA	Male	NA
+S109-99888_F20059	Metastatic carcinoma	NA	NA	Male	NA
+S110-99264_F21065	Adenocarcinoma	NA	NA	Female	NA
+S110-89560_PF21043	Combined hepatocellular and cholangiocarcinoma, Liver	NA	NA	Female	NA
+S111-97941_F22107	Adenocarcinoma, Lung	NA	NA	Male	NA
+M112-00124_F23041	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-00109_BR23034	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S111-97805_MY22020	Acute Myeloid Leukemia	NA	NA	Male	NA
+S110-99869_BR21046	Carcinosarcoma, Ovary	NA	NA	Female	NA
+M112-10071_PF23028	Ampullary adenocarcinoma	NA	NA	Male	NA
+S111-99586_PF22065	Glioblastoma, Cerebrum	NA	NA	Male	NA
+M112-10082_PT23037	Angiosarcoma	NA	NA	Male	NA
+S110-98766_BR21020	Clear cell carcinoma, Ovary	NA	NA	Female	NA
+S110-99443_PF21006	Colon adenocarcinoma	NA	NA	Male	NA
+S110-98406_F21027	Metastatic adenocarcinoma	NA	NA	Female	NA
+S111-98944_BR22027	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-98324_BR21005	Clear cell carcinoma, Ovary	NA	NA	Female	NA
+M111-00027_F22131	Metastatic carcinoma, Duodenum	NA	NA	Male	NA
+S111-98501_PT22006	Leiomyosarcoma, Thigh	NA	NA	Female	NA
+S109-99207_F20003	Adenocarcinoma	NA	NA	Male	NA
+S110-99870_BR21047	Clear cell carcinoma, Ovary	NA	NA	Female	NA
+S110-99822_BR21044	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-99321_TM21011	Adenocarcinoma, Duodenum	NA	NA	Male	NA
+S110-94850_F21109	Anaplastic thyroid carcinoma	NA	NA	Female	NA
+M112-00173_F23052	Metastatic carcinoma	NA	NA	Female	NA
+S110-99146_F21060	Adenocarcinoma	NA	NA	Male	NA
+S111-99045_PF22047	Glioblastoma, Cerebrum	NA	NA	Female	NA
+S111-98830_PT22013	Lung squamous cell carcinoma, Liver	NA	NA	Male	NA
+S111-97905_PF22104	Metastatic adenocarcinoma, Liver	NA	NA	Female	NA
+S109-96833_F20109	Metastatic adenocarcinoma	NA	NA	Female	NA
+S111-99640_PF22066	Peritoneal high-grade serous carcinoma, Omentum	NA	NA	Female	NA
+M112-10090_PT23041	Lung adenocarcinoma	NA	NA	Male	NA
+S110-99145_F21059	Metastatic carcinoma	NA	NA	Male	NA
+M111-10015_PF22128	Adenocarcinoma, Cervix	NA	NA	Female	NA
+S111-97911_F22100	Metastatic carcinoma, Orbit	NA	NA	Male	NA
+S109-99418_F20017	Adenocarcinoma	NA	NA	Female	NA
+M112-10038_PT23013	Buccal cancer	NA	NA	Male	NA
+S111-98653_PF22021	Metastatic sarcoma, Lung	NA	NA	Female	NA
+S111-97832_PT22052	Poorly differentiated carcinoma, Pancreas	NA	NA	Female	NA
+S110-94998_BR21061	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S109-99538_F20030	Adenocarcinoma	NA	NA	Female	NA
+S109-99887_F20058	Adenocarcinoma	NA	NA	Male	NA
+S111-99212_F22041	Adenocarcinoma, Pleural effusion	NA	NA	Male	NA
+M112-10112_PT23048	Cholangiocarcinoma	NA	NA	Female	NA
+S109-99770_F20050	Adenocarcinoma	NA	NA	Female	NA
+S111-99248_PF22058	Glioblastoma, Cerebrum	NA	NA	Male	NA
+M112-00090_F23028	Adenocarcinoma, Lung	NA	NA	Male	NA
+M112-10122_PT23051	Pancreatic cancer	NA	NA	Male	NA
+S111-99303_F22046	Metastatic adenocarcinoma	NA	NA	Male	NA
+M111-10031_PF22135	Sarcoma, Soft tissue	NA	NA	Female	NA
+S110-99815_PG21007	Lung adenocarcinoma	NA	NA	NA	NA
+S110-89568_PT21025	Neuroendocrine tumor, Liver	NA	NA	Male	NA
+S111-97925_PF22109	Metastasic neuroendocrine carcinoma (From clinical diagnosis)	NA	NA	Female	NA
+M112-10111_PT23047	Lung adenocarcinoma	NA	NA	Male	NA
+S109-99595_F20035	Carcinoma	NA	NA	Female	NA
+M112-00083_F23023	Metastatic carcinoma	NA	NA	Female	NA
+S110-98620_BR21016	Ovarian cancer	NA	NA	Female	NA
+S111-98353_TM22002	Adenocarcinoma, Colon	NA	NA	Male	NA
+M111-00004_F22124	Small cell carcinoma, Lung	NA	NA	Male	NA
+S111-99647_PF22067	Anaplastic oligodendroglioma, Cerebrum	NA	NA	Male	NA
+S111-99176_MY22012	Myelodysplastic Syndrome	NA	NA	Male	NA
+S109-99535_F20027	Metastatic carcinoma	NA	NA	Female	NA
+M112-00072_F23020	Metastatic carcinoma	NA	NA	Female	NA
+S110-99450_PT21004	Osteosarcoma, Soft tissue	NA	NA	NA	NA
+S110-99551_PF21007	Solitary fibrous tumor/Hemangiopericytoma, WHO grade 2, Meninges	NA	NA	Female	NA
+S108-98772_F19002	Metastatic carcinoma	NA	NA	Female	NA
+S111-97974_BR22059	 Family history of breast cancer and colon cancer	NA	NA	Female	NA
+M112-00175_F23054	Adenocarcinoma, compatible with cholangiocarcinoma,  x000D Liver	NA	NA	Male	NA
+M112-10083_PF23033	Brain glioblastoma (GBM)	NA	NA	Male	NA
+M112-00055_BR23015	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-99784_F22071	Adenocarcinoma, Lung	NA	NA	Male	NA
+M112-00009_MY23004	Hypocellularity, advanced	NA	NA	Male	NA
+S109-99688_F20042	Metastatic adenocarcinoma	NA	NA	Female	NA
+M112-00108_BR23033	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97831_MY22022	Acute Promyelocytic Leukemia	NA	NA	Male	NA
+M112-00116_BR23036	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-98098_TM21002	NUT carcinoma	NA	NA	Male	NA
+S109-89665_F20075	Adenocarcinoma	NA	NA	Female	NA
+S111-97835_F22081	Adenocarcinoma, Lung	NA	NA	Male	NA
+M112-10027_PF23009	Brain anaplastic astrocytoma	NA	NA	Male	NA
+S109-89712_F20084	Hepatocellular carcinoma	NA	NA	Male	NA
+M112-10097_PF23042	Liver angiosarcoma	NA	NA	Male	NA
+M112-00057_BR23017	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-98901_PF22042	Adenocarcinoma, Rectum	NA	NA	Female	NA
+M111-10005_PG22016	Adenocarcinoma, Lung	NA	NA	NA	NA
+S110-99491_PT21005	Metastatic sarcoma, Lung	NA	NA	Female	NA
+S111-98319_PF22011	Gastric Cardia Adenocarcinoma (From clinical diagnosis)	NA	NA	Male	NA
+S109-96834_F20110	Squamous cell carcinoma	NA	NA	Male	NA
+M111-00022_F22130	Metastatic carcinoma, Liver	NA	NA	Male	NA
+M112-10076_PF23030	Skin melanoma	NA	NA	Male	NA
+S111-97936_F22105	Adenocarcinoma, Lung	NA	NA	Male	NA
+S111-98565_F22018	Metastatic carcinoma, Lymph node	NA	NA	Female	NA
+S110-98262_F21017	Metastatic carcinoma	NA	NA	Female	NA
+S111-99748_PF22076	Adenocarcinoma, Colon	NA	NA	Female	NA
+S110-94704_PG21011	Adenocarcinoma, Lung	NA	NA	NA	NA
+S111-98942_F22026	Adenocarcinoma	NA	NA	Male	NA
+S111-99745_PF22078	Adenocarcinoma, Lung (From clinical diagnosis)	NA	NA	Male	NA
+S110-99864_F21088	Metastatic adenocarcinoma	NA	NA	Female	NA
+M112-00060_BR23019	High-grade serous carcinoma, Fallopian tube	NA	NA	Female	NA
+M112-00147_F23048	Metastatic carcinoma	NA	NA	Male	NA
+M111-10038_PF22143	Adenocarcinoma, Ascending colon	NA	NA	Female	NA
+S110-98843_F21042	Gastrointestinal stromal tumor (GIST)	NA	NA	Female	NA
+S111-99726_F22068	Melanoma, Skin	NA	NA	Male	NA
+S111-98208_F22010	Pleomorphic carcinoma, Lung	NA	NA	Male	NA
+S111-97837_F22083	Non-small cell carcinoma, Lung	NA	NA	Female	NA
+S111-97810_F22076	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-96819_TM20010	Choroidal malignant melanoma,  x000D Eyeball	NA	NA	Male	NA
+S109-89709_F20081	Metastatic adenocarcinoma	NA	NA	Female	NA
+M112-00132_MY23032	Myeloproliferative neoplasm, compatible with  x000D polycythemia vera	NA	NA	Male	NA
+S111-97877_TM22010	Adenocarcinoma, Rectum	NA	NA	Male	NA
+S109-99477_F20021	Pleomorphic carcinoma	NA	NA	Male	NA
+S111-97869_BR22052	High-grade serous carcinoma, Fallopian tube	NA	NA	Female	NA
+M111-10010_PT22089	Undifferentiated spindle cell sarcoma, Left retroperitoneum	NA	NA	Male	NA
+S111-98427_TM22005	Malignant mesothelioma, metastatic, Lymph node	NA	NA	Male	NA
+S111-97917_PT22072	Alveolar Rhabdomyosarcoma, Soft tissue	NA	NA	Male	NA
+S109-89837_F20100	Metastatic carcinoma	NA	NA	Female	NA
+S111-98307_PF22002	NUT carcinoma, Left ethmoid	NA	NA	Female	NA
+M112-00187_MY23047	B-lymphoblastic leukemia/lymphoma(B-ALL) with  x000D BCR::ABL1 fusion	NA	NA	Male	NA
+M112-10094_PF23040	Vertebra, metastatic adenocarcinoma	NA	NA	Male	NA
+M112-00087_F23025	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-00176_F23055	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-97878_MY22024	Myelodysplastic Syndrome	NA	NA	Male	NA
+S109-99747_F20045	Metastatic adenocarcinoma	NA	NA	Female	NA
+M112-00096_F23031	Adenocarcinoma, Lung	NA	NA	Male	NA
+M112-10087_PF23036	Unknown primary adenocarcinoma	NA	NA	Female	NA
+M112-00137_BR23041	Serous carcinoma, Uterus	NA	NA	Female	NA
+S111-99386_PF22062	Adenocarcinoma, Lung (From S111-14233A)	NA	NA	Male	NA
+M112-10054_PT23020	Ampulla of vater adenocarcinoma	NA	NA	Male	NA
+S111-99874_BR22043	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-00144_F23045	Mixed invasive mucinous and non-mucinous  x000D adenocarcinoma, Lung	NA	NA	Female	NA
+S111-97897_F22099	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-10072_PF23029	Ovary clear cell carcinoma	NA	NA	Female	NA
+S110-99655_PF21019	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S111-99561_F22057	Metastatic carcinoma	NA	NA	Female	NA
+S111-98312_PF22012	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-96879_BR20008	Metastatic carcinoma, Ovary	NA	NA	Female	NA
+S111-98732_PF22030	Glioblastoma, Cerebrum	NA	NA	Female	NA
+M112-10024_PF23005	Kidney renal cell carcinoma (NOS)	NA	NA	Male	NA
+S109-99051_F20001	Adenocarcinoma	NA	NA	Male	NA
+S109-99748_F20046	Non-small cell carcinoma	NA	NA	Female	NA
+S109-99967_F20067	Metastatic adenocarcinoma	NA	NA	Female	NA
+S111-98039_BR22002	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-99611_F22063	Metastatic adenocarcinoma 	NA	NA	Female	NA
+M112-10017_PT23002	GIST	NA	NA	Male	NA
+S109-99390_F20015	Poorly differentiated carcinoma	NA	NA	Male	NA
+S110-94853_BR21056	Carcinosarcoma, Ovary	NA	NA	Female	NA
+M112-00114_F23037	Adenocarcinoma, Lung	NA	NA	Female	NA
+M111-00001_F22121	Rectal cancer	NA	NA	Male	NA
+S111-99815_PT22037	Metastatic carcinoma with neuroendocrine, Axillary lymph node 	NA	NA	Male	NA
+M111-00031_MY22038	Myelodysplastic Syndrome	NA	NA	Female	NA
+S109-99891_F20062	 Metastatic carcinoma	NA	NA	Female	NA
+S110-99047_F21054	Metastatic adenocarcinoma	NA	NA	Female	NA
+S111-97856_BR22051	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-99599_PT21008	Metastatic pancreatic adenocarcinoma	NA	NA	NA	NA
+S111-97955_PF22115	Metastatic melanoma, Lymph node	NA	NA	Male	NA
+S111-99090_F22032	Adenocarcinoma, Lung	NA	NA	Female	NA
+S108-98773_F19003	Metastatic adenocarcinoma	NA	NA	Male	NA
+M112-00017_F23004	Adenocarcinoma, Lung	NA	NA	Male	NA
+S110-99575_PF21014	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S109-89816_F20095	Adenocarcinoma	NA	NA	Female	NA
+S111-97815_PT22043	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+S111-99624_MY22016	Acute myeloid leukemia	NA	NA	Male	NA
+S110-98482_BR21014	Ovarian cancer	NA	NA	Female	NA
+S110-94689_PT21030	Germ cell tumor, Liver	NA	NA	Male	NA
+M111-00018_BR22063	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-00076_MY23023	Pure red cell aplasia	NA	NA	Male	NA
+S110-94913_F21110	Carcinoma, favor combined small cell carcinoma andadenocarcinoma	NA	NA	Male	NA
+S111-98042_PG21014	Adenocarcinoma, Lung	NA	NA	NA	NA
+S110-99425_PF21004	Glioblastoma, Cerebrum	NA	NA	Female	NA
+M112-00041_MY23013	Acute Myeloid Leukemia	NA	NA	Female	NA
+S111-98651_BR22019	Invasive ductal carcinoma, Breast 	NA	NA	Female	NA
+M112-00047_BR23013	High-grade serous carcinoma, Omentum	NA	NA	Female	NA
+M112-00073_BR23020	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-99552_PF21008	Metastatic osteosarcoma, Heart	NA	NA	Female	NA
+S110-99396_PT21003	Metastatic carcinoma	NA	NA	NA	NA
+S111-98727_PF22034	 Papillary urothelial carcinoma, Urinary bladder	NA	NA	Female	NA
+S111-97929_PT22073	Non-keratinizing squamous cell carcinoma, Nasopharynx	NA	NA	Female	NA
+S109-96837_F20113	Sarcomatoid carcinoma	NA	NA	Female	NA
+S111-97954_F22113	Adenocarcinoma, Lung	NA	NA	Female	NA
+S110-99949_BR21049	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-98470_BR21012	Carcinosarcoma, Ovary	NA	NA	Female	NA
+S109-99981_F20069	Adenocarcinoma	NA	NA	Female	NA
+S110-98912_TM21009	Hepatocellular carcinoma, Liver	NA	NA	Male	NA
+M112-10067_PF23024	Skin melanoma	NA	NA	Male	NA
+M112-00080_BR23025	Adenocarcinoma, Ovary	NA	NA	Female	NA
+S111-99114_PF22054	Anaplastic astrocytoma, Cerebrum	NA	NA	Male	NA
+M111-10034_PT22094	Sarcoma	NA	NA	Female	NA
+S111-97892_PF22102	Metastatic adenocarcinoma, Cerebrum	NA	NA	Female	NA
+S111-98123_PT21044	Metastatic adenoid cystic carcinoma, Lung	NA	NA	NA	NA
+S111-97847_PT22058	Recurrent myxoid sarcoma, Soft tissue	NA	NA	Female	NA
+S111-97885_F22095	Adenocarcinoma, Lung	NA	NA	Male	NA
+M112-00188_F23057	Adenocarcinoma, Lung	NA	NA	Male	NA
+S111-98107_F22006	Metastatic adenocarcinoma, Cerebrum	NA	NA	Female	NA
+S110-89571_PF21042	Adenocarcinoma, Rectum	NA	NA	Female	NA
+S110-98699_BR21017	Ovarian cancer	NA	NA	Female	NA
+S111-98491_F22017	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-99669_BR22039	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S109-89792_F20092	Adenocarcinoma	NA	NA	Male	NA
+M112-10118_PF23055	Atypical meningioma of brain	NA	NA	Male	NA
+S111-97818_PT22044	Anaplastic carcinoma with fibromatosis-like stroma, Thyroid	NA	NA	Female	NA
+S111-98576_PF22023	Liver cholangiocarcinoma	NA	NA	Female	NA
+S111-97826_PT22048	Thymic carcinoma	NA	NA	Female	NA
+S111-97956_PF22116	Adenocarcinoma, Lung	NA	NA	Female	NA
+S110-98909_BR21024	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S109-99578_F20032	Metastatic carcinoma	NA	NA	Female	NA
+S110-98242_F21014	Metastatic carcinoma	NA	NA	Female	NA
+S109-96876_F20116	Metastatic carcinoma	NA	NA	Male	NA
+S109-89815_F20094	Metastatic melanoma	NA	NA	Female	NA
+M112-10125_PG23008	Carcinoma of unknown primary	NA	NA	NA	NA
+S111-99722_PF22074	Atypical meningioma, Meninges	NA	NA	Female	NA
+S109-99340_F20009	Non-small cell carcinoma	NA	NA	Male	NA
+S110-98892_F21044	Hepatocellular carcinoma	NA	NA	Female	NA
+S111-98003_PF21066	Carcinosarcoma, Uterus	NA	NA	Female	NA
+S111-98734_PT22011	Hepatocellular carcinoma	NA	NA	Male	NA
+S110-99442_F21071	Invasive carcinoma	NA	NA	Female	NA
+S111-98368_PF22008	Adenocarcinoma, Colon	NA	NA	Male	NA
+S111-98564_PF22020	Invasive adenocarcinoma, Urinary bladder	NA	NA	Male	NA
+S109-99890_F20061	Metastatic adenocarcinoma	NA	NA	Male	NA
+M112-10050_PF23017	Brain glioblastoma (GBM)	NA	NA	Male	NA
+S111-99728_F22070	Adenocarcinoma, Lung	NA	NA	Female	NA
+S110-99727_PF21022	Adenocarcinoma, metastatic, Liver	NA	NA	Female	NA
+S109-96875_F20114	Adenocarcinoma	NA	NA	Male	NA
+S111-98667_PT22007	Metastatic adenocarcinoma favor clear cell adenocarcinoma from female gynecologic tract	NA	NA	Female	NA
+M112-10096_PT23042	Lung adenocarcinoma	NA	NA	Female	NA
+M112-10039_PF23013	Kidney carcinoma (NOS)	NA	NA	Female	NA
+M112-00003_MY23001	Acute Myeloid Leukemia	NA	NA	Male	NA
+M111-10017_PG22017	Adenocarcinoma, Lung	NA	NA	NA	NA
+S110-98845_BR21022	Adenocarcinoma, Ovary	NA	NA	Female	NA
+S110-98469_BR21011	Ovarian cancer	NA	NA	Female	NA
+M112-00148_BR23044	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-99656_F21080	Adenocarcinoma	NA	NA	Male	NA
+S111-98057_PF21076	Adenocarcinoma, Pancreas	NA	NA	Male	NA
+S110-98911_BR21026	Invasive carcinoma, Breast	NA	NA	Female	NA
+S111-99032_TM22007	Hepatocellular carcinoma, Liver	NA	NA	Male	NA
+S110-98960_F21047	Metastatic adenocarcinoma	NA	NA	Male	NA
+S110-99020_F21052	Metastatic adenocarcinoma	NA	NA	Female	NA
+M112-00016_AL23001	Papillary carcinoma, Thyroid	NA	NA	NA	NA
+M112-00099_BR23028	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-99078_PF22049	Anaplastic astrocytoma, Cerebrum	NA	NA	Female	NA
+M112-10100_PF23045	Pancreas ductal adenocarcinoma	NA	NA	Female	NA
+S111-98367_PG22002	Head and neck carcinoma	NA	NA	NA	NA
+M112-10109_PT23045	Pancreatic cancer	NA	NA	Female	NA
+M111-00011_F22127	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-10113_PT23049	Esophageal cancer	NA	NA	Male	NA
+M112-00097_F23032	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-97971_F22119	Adenocarcinoma, Lung	NA	NA	Male	NA
+S110-99144_F21058	Adenocarcinom	NA	NA	Female	NA
+S109-89734_F20085	Adenocarcinoma	NA	NA	Male	NA
+S111-99365_PF22060	Adenocarcinoma, Colon	NA	NA	Female	NA
+M112-00007_BR23001	Family history of breast cancer	NA	NA	Female	NA
+M112-10023_PF22150	neuroendocrine carcinoma	NA	NA	Female	NA
+S111-97816_PF22083	High grade glioma, Cerebrum	NA	NA	Male	NA
+S109-99193_TM20001	Fibromatosis	NA	NA	Female	NA
+S110-98351_BR21008	High-grade serous carcinoma, Fallopian tube	NA	NA	Female	NA
+M112-00122_F23039	Metastatic carcinoma, consistent with urothelial  x000D origin	NA	NA	Male	NA
+M112-10068_PF23025	Unknown primary carcinoma (NOS)	NA	NA	Female	NA
+S110-99423_PF21002	Compatible with recurrent adenoid cystic carcinoma, Right neck	NA	NA	Male	NA
+S111-98106_F22005	Adenocarcinoma, Lung	NA	NA	Female	NA
+S109-89834_F20097	Non-small cell carcinoma	NA	NA	Male	NA
+M112-00170_MY23038	Acute myeloid leukemia(AML) with KMT2A rearrangement, WHO 2022 x000D AML with other KMT2A rearrangement, ICC 2022 x000D 2022 ELN risk classification: Adverse x000D 	NA	NA	Male	NA
+M111-00005_BR22060	Adenocarcinoma, Ovary	NA	NA	Female	NA
+M112-00037_BR23010	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97822_F22077	Adenocarcinoma, Lung	NA	NA	Female	NA
+S110-98265_TM21003	Adenocarcinoma, Liver	NA	NA	Male	NA
+M111-10009_PT22085	Salivary gland type carcinoma, Tongue base	NA	NA	Male	NA
+S110-89474_PF21033	Adenocarcinoma, Liver	NA	NA	Male	NA
+S111-97803_PF22081	Glioblastoma, Cerebrum	NA	NA	Male	NA
+M111-00026_MY22037	Myelodysplastic Syndrome	NA	NA	Female	NA
+S109-99206_F20002	Metastatic adenocarcinoma	NA	NA	Male	NA
+M112-10066_PT23031	Hepatocellular carcinoma	NA	NA	Male	NA
+S110-99718_PF21020	Metastatic carcinoma, Lung	NA	NA	Female	NA
+S110-94792_PF21053	Metastatic adenocarcinoma, Cerebellum	NA	NA	Male	NA
+M111-10036_PF22139	Renal cell carcinoma	NA	NA	Male	NA
+M112-10078_PT23033	Lung adenocarcinoma	NA	NA	Female	NA
+S111-97889_PF22100	Anaplastic oligodendroglioma, Cerebrum	NA	NA	Male	NA
+S111-99724_MY22017	Other Hematological Cancer	NA	NA	Female	NA
+S111-97850_TM22008	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+M112-10012_PF23002	Brain glioblastoma (GBM)	NA	NA	Male	NA
+S110-94915_F21112	Metastatic carcinoma	NA	NA	Female	NA
+S111-97806_MY22021	Other Hematological Cancer	NA	NA	Male	NA
+M112-00154_MY23035	Acute myeloid leukemia(AML), myelodysplasia(MDS)-related, WHO  x000D 2022 x000D AML with mutated TP53, ICC 2022 x000D 2022 ELN risk classification: Adverse 	NA	NA	Female	NA
+S111-99792_PF22079	Cholangiocarcinoma, Liver (From clinical diagnosis)	NA	NA	Female	NA
+S110-94793_PF21054	Anaplastic astrocytoma, Cerebrum	NA	NA	Male	NA
+M112-00078_BR23023	Invasive lobular carcinoma, Breast	NA	NA	Female	NA
+S110-94917_BR21058	Metastatic adenocarcinoma of unknown primary	NA	NA	Male	NA
+M111-10004_PT22083	High grade undifferentiated sarcoma, Prostate	NA	NA	Male	NA
+S111-98719_F22021	Adenosquamous carcinoma, Lung	NA	NA	Female	NA
+S110-94777_F21102	Adenocarcinoma	NA	NA	Male	NA
+S110-99964_PT21021	Cholangiocarcinoma, Bone	NA	NA	Male	NA
+S111-98664_PF22028	Mixed small cell neuroendocrine carcinoma and adenocarcinoma, Prostate	NA	NA	Male	NA
+S111-97920_MY22029	Myelodysplastic Syndrome	NA	NA	Female	NA
+S111-98808_BR22023	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+M111-10014_PT22088	Ovarian cancer, Plevic wall	NA	NA	Female	NA
+S110-94692_MY21007	Acute Lymphoblastic Leukemia	NA	NA	Female	NA
+S111-98496_PF22018	Adenocarcinoma, Stomach (From S108-44261)	NA	NA	Female	NA
+M112-00183_MY23043	Acute myeloid leukemia(AML), myelodysplasia(MDS)-related, WHO  x000D 2022 x000D AML with MDS-related gene mutation, ICC 2022 x000D 2022 ELN risk classification: adverse 	NA	NA	Male	NA
+S111-97855_PT22061	Adenocarcinoma, Lung	NA	NA	Male	NA
+S110-94776_F21101	Metastatic adenocarcinoma	NA	NA	Male	NA
+S109-99652_F20040	Mucinous adenocarcinoma	NA	NA	Male	NA
+S110-99046_F21053	Adenocarcinoma	NA	NA	Male	NA
+M112-00184_MY23044	Increase of eosinophils	NA	NA	Male	NA
+S109-89738_BR20004	Fallopian tube serous carcinoma metastasizing to ovaries	NA	NA	Female	NA
+M112-00146_F23047	Metastatic carcinoma	NA	NA	Male	NA
+M112-00123_F23040	Metastatic carcinoma	NA	NA	Female	NA
+M112-00177_F23056	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-99885_F20056	Adenocarcinoma	NA	NA	Female	NA
+M112-10085_PF23034	Colon adenocarcinoma (CRC)	NA	NA	Male	NA
+M112-00117_BR23037	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S111-98214_MY22003	Acute Myeloid Leukemia	NA	NA	Female	NA
+S109-99923_F20066	Adenocarcinoma	NA	NA	Female	NA
+S111-99615_BR22038	Ductal carcinoma in situ, Breast	NA	NA	Female	NA
+M111-10008_PT22084	Metastatic carcinoma, Bone	NA	NA	Male	NA
+S110-98404_F21025	Metastatic carcinoma	NA	NA	Female	NA
+S111-97838_BR22048	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-10010_PF22151	Cervix squamous cell carcinoma (SCC)	NA	NA	Female	NA
+S111-98575_MY22009	Myelodysplastic Syndrome	NA	NA	Female	NA
+S110-98530_F21032	Metastatic adenocarcinoma	NA	NA	Female	NA
+S111-97965_PF22120	Adenocarcinoma, Colon	NA	NA	Male	NA
+S110-99167_F21063	Metastatic adenocarcinoma, Cerebellum	NA	NA	Female	NA
+M112-00006_F23002	Metastatic carcinoma	NA	NA	Female	NA
+S109-99290_F20008	Adenocarinoma	NA	NA	Male	NA
+S110-94775_PT21034	Non small cell lung cancer, Neck	NA	NA	Male	NA
+S111-98720_F22022	Metastatic adenocarcinoma, Lung	NA	NA	Male	NA
+S111-98006_PF21070	Adenocarcinoma, Lung	NA	NA	Female	NA
+S110-99266_BR21033	Clear cell carcinoma, Tissue labeled left adnexal tumor	NA	NA	Female	NA
+S110-94996_F21117	Adenocarcinoma	NA	NA	Female	NA
+M111-10003_PF22122	Glioblastoma, Cerebrum	NA	NA	Male	NA
+M111-00035_MY22039	Non-Hodgkin Lymphoma	NA	NA	Female	NA
+S109-99389_F20014	Metastatic carcinoma	NA	NA	Male	NA
+M111-10042_PT22095	Metastatic malignancy giant cell tumor 	NA	NA	Male	NA
+S111-99305_BR22029	Breast Lump	NA	NA	Male	NA
+S109-99930_MY20001	Myelodysplastic Syndrome	NA	NA	Female	NA
+S111-97946_MY22031	Acute Myeloid Leukemia	NA	NA	Male	NA
+S110-89556_PF21038	Adenocarcinoma, ampullary of vater (pathology diagnosis from S109-25520)	NA	NA	Male	NA
+S111-99723_PT22035	Adenocarcinoma, Pancreas	NA	NA	Male	NA
+S110-98990_F21051	Adenocarcinoma	NA	NA	Female	NA
+M111-10018_PF22126	Leiomyosarcoma, metastatic	NA	NA	Female	NA
+M112-10095_PF23041	Uterus endometrial stromal sarcoma, high grade	NA	NA	Female	NA
+S111-97947_TM22013	Fibrous dysplasia	NA	NA	Female	NA
+S110-98962_BR21027	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97834_F22080	Metastatic carcinoma	NA	NA	Male	NA
+M112-00136_BR23040	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-10036_PT23011	Metastatic sarcoma	NA	NA	Male	NA
+M112-00152_MY23033	Acute myeloid leukemia(AML), myelodysplasia (MDS) related s/p  x000D treatment with relapse, WHO 2022 x000D AML with MDS related genes, ICC 2022 	NA	NA	Male	NA
+S111-98829_PF22036	Glioblastoma, Cerebrum	NA	NA	Male	NA
+M111-00013_F22129	Adenocarcinoma, Lung	NA	NA	Male	NA
+S111-97862_PT22060	Adenocarcinoma, Lung	NA	NA	Male	NA
+M111-10013_PT22087	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-99537_F20029	Adenocarcinoma	NA	NA	Female	NA
+S110-99867_F21091	Metastatic adenocarcinoma	NA	NA	Female	NA
+M112-10104_PF23048	Esophagus cancer (NOS)	NA	NA	Male	NA
+S110-98701_MY21005	AML	NA	NA	Male	NA
+M112-10064_PT23029	Lung adenocarcinoma	NA	NA	Female	NA
+S111-97940_BR22057	Mixed endometrioid and clear cell carcinoma, Ovary	NA	NA	Female	NA
+S111-97973_BR22058	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-10015_PT22107	R/o liposarcoma	NA	NA	Male	NA
+S110-94852_BR21055	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-00021_MY23006	Neutropenia	NA	NA	Female	NA
+S111-97890_PG22009	Adenocarcinoma, Lung	NA	NA	NA	NA
+S110-99322_BR21035	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-98409_BR21009	Ovarian Cancer	NA	NA	Female	NA
+S110-94848_F21107	Metastatic tumor with neuroendocrine differentiation	NA	NA	Male	NA
+S111-98666_PF22031	Glioblastoma, Cerebrum	NA	NA	Female	NA
+S110-99576_PF21015	Pancreas ductal adenocarcinoma	NA	NA	Male	NA
+S110-94648_PF21047	Rectal cancer (From clinical diagnosis)	NA	NA	Male	NA
+S110-98017_F21001	Metastatic adenocarcinoma	NA	NA	Male	NA
+S110-94772_PF21051	Cervical neuroendocrine tumor (From clinical diagnosis)	NA	NA	Female	NA
+S111-98147_PT22001	Metastatic neuroednocrine carcinoma, Verterba	NA	NA	NA	NA
+S111-97817_PF22084	Anaplastic astrocytoma, Cerebrum	NA	NA	Male	NA
+M112-00172_MY23040	AML s/p treatment (Hypocellularity with erythroid  x000D predominance is seen in the marrow biopsy)	NA	NA	Female	NA
+S111-99250_PT22024	Hepatoblastoma, Lung	NA	NA	Female	NA
+S110-94916_BR21057	Breast cancer	NA	NA	Female	NA
+S110-98095_F21004	Non-small cell carcinoma	NA	NA	Male	NA
+M112-00018_F23005	Adenocarcinoma, Lung	NA	NA	Male	NA
+M112-10037_PT23012	Metastatic adenocarcinoma	NA	NA	Male	NA
+S109-99419_F20018	Adenocarcinoma	NA	NA	Female	NA
+S109-96819_F20107	Choroidal malignant melanoma	NA	NA	Male	NA
+S111-98634_PG22004	Adenocarcinoma, Lung (From S111-08438)	NA	NA	NA	NA
+S110-98349_F21023	Adenocarcinoma	NA	NA	Female	NA
+S111-99666_PF22068	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S111-97902_PT22070	Adenocarcinoma, Prostate	NA	NA	Male	NA
+M112-00092_BR23026	Metastatic carcinoma	NA	NA	Female	NA
+M112-00026_F23006	Adenocarcinoma, Lung	NA	NA	Female	NA
+S110-99213_BR21032	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S111-97942_F22108	Adenocarcinoma, metastatic	NA	NA	Female	NA
+S110-98698_F21039	Adenocarcinoma	NA	NA	Male	NA
+S111-99875_BR22045	Ductal carcinoma in situ, Breast	NA	NA	Female	NA
+S111-97948_PT22077	Metastatic poorly-differentiated adenocarcinoma,   Omentum	NA	NA	Female	NA
+S110-99667_PT21009	Gastrointestinal stromal tumor (GIST), high risk of malignancy, recurrent, Soft tissue	NA	NA	NA	NA
+M112-00101_F23034	Metastatic carcinoma	NA	NA	Male	NA
+S111-97859_F22087	Metastatic adenocarcinoma	NA	NA	Male	NA
+S110-98532_BR21015	Ovarian cancer	NA	NA	Female	NA
+S110-99598_PT21006	Poorly differentiated carcinoma, Esophagus	NA	NA	NA	NA
+S108-99108_F19007	Metastatic carcinoma	NA	NA	Female	NA
+S110-98698_TM21005	Adenocarcinoma, Lung	NA	NA	Male	NA
+S111-98941_PT22018	Non-small cell carcinoma, Neck lymph node	NA	NA	Male	NA
+S111-99791_BR22042	Invasive ductal carcinoma, Breast	NA	NA	Male	NA
+S110-98988_F21049	Leiomyosarcoma	NA	NA	Female	NA
+M112-10031_PT23007	Rhabdomyosarcoma	NA	NA	Female	NA
+M112-00050_MY23017	Acute Myeloid Leukemia	NA	NA	Female	NA
+M112-10060_PT23026	Lung adenocarcinoma	NA	NA	Female	NA
+S111-99180_F22034	Adenocarcinoma, Pleural effusion	NA	NA	Female	NA
+S111-99725_F22067	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-98425_TM22003	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+S111-98146_PF21077	Seminoma, Testis	NA	NA	Male	NA
+S111-98115_BR22009	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97830_PT22051	Metastatic adenocarcinoma, Lung	NA	NA	Male	NA
+S109-99769_F20049	Metastatic adenocarcinoma	NA	NA	Male	NA
+S110-99729_PF21024	Metastatic olfactory neuroblastoma, Lymph nodes	NA	NA	Male	NA
+S109-89670_F20077	Adenocarcinoma	NA	NA	Male	NA
+M112-10088_PT23039	Colon adenocarcinoma	NA	NA	Male	NA
+S111-99521_BR22034	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S109-99360_F20012	Adenocarcinoma	NA	NA	Female	NA
+S111-99612_F22064	Metastatic melanoma	NA	NA	Female	NA
+S111-98654_PF22027	Metastatic Adenocarcinoma, Chest wall	NA	NA	Male	NA
+S111-98112_BR22006	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S109-96818_F20106	Leiomyosarcoma	NA	NA	Male	NA
+S110-89473_PF21032	Adenocarcinoma, Stomach	NA	NA	Female	NA
+S110-98264_F21019	Adenocarcinoma	NA	NA	Female	NA
+M112-10011_PF23001	Ovarian clear cell carcinoma	NA	NA	Female	NA
+S111-97967_F22115	Adenocarcinoma, Pleural effusion	NA	NA	Male	NA
+S109-89814_F20093	Small cell carcinoma	NA	NA	Male	NA
+S109-89836_TM20006	Squamous cell carcinoma	NA	NA	Male	NA
+S111-98495_PF22017	Glioblastoma, Cerebrum	NA	NA	Female	NA
+S110-94847_F21106	Non-small cell carcinoma	NA	NA	Female	NA
+M112-10081_PF23032	Colon adenocarcinoma (CRC)	NA	NA	Male	NA
+S111-99614_BR22037	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-98636_PF22026	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S110-98410_BR21010	Ovarian Cancer	NA	NA	Female	NA
+S110-99865_F21089	Anaplastic thyroid carcinoma	NA	NA	Female	NA
+S110-99940_PG21010	Lung adenocarcinoma	NA	NA	NA	NA
+S111-97899_MY22026	Chronic Myeloid Leukemia	NA	NA	Female	NA
+S111-97809_F22075	Adenocarcinoma, Pleural effusion	NA	NA	Female	NA
+S111-99882_PT22038	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-97886_F22096	Non-small cell carcinoma, favor adenocarcinoma, Lung	NA	NA	Male	NA
+S111-99089_F22031	Metastatic adenocarcinoma, Chest wall	NA	NA	Male	NA
+S110-98531_TM21004	Adenocarcinoma, metastatic	NA	NA	Female	NA
+S110-99717_PT21011	Metastatic carcinoma, Bone	NA	NA	NA	NA
+S111-99102_PF22051	Metastatic adenocarcinoma, Lung	NA	NA	Male	NA
+M112-00023_BR23006	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97937_F22106	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-97933_PG22014	Adenocarcinoma, Lung	NA	NA	NA	NA
+S111-97865_F22089	Adenocarcinoma, Lung	NA	NA	Male	NA
+S110-99505_PG21005	Lung adenocarcinoma	NA	NA	NA	NA
+M112-00058_BR23018	Ovarian cancer	NA	NA	Female	NA
+S110-94851_BR21054	Prostate adenocarcinoma	NA	NA	Male	NA
+S110-98438_MY21003	Multiple Myeloma	NA	NA	Male	NA
+S111-97953_F22112	Carcinoma, Pleural effusion	NA	NA	Male	NA
+S110-99863_F21087	Adenocacinoma	NA	NA	Female	NA
+S111-98110_BR22004	Carcinoma of ovary	NA	NA	Female	NA
+S110-98697_F21038	Adenocarcinoma	NA	NA	Female	NA
+M112-00143_F23044	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-89872_F20105	Non-small cell carcinoma	NA	NA	Male	NA
+S111-98111_BR22005	Invasive ductal carcinoma, Breast	NA	NA	Male	NA
+S110-98892_TM21008	Hepatocellular carcinoma, Liver	NA	NA	Female	NA
+M112-00134_F23043	Adenocarcinoma, Lung	NA	NA	Male	NA
+S110-89573_PF21045	Metastatic adencarcinoma	NA	NA	Female	NA
+S110-89475_PF21035	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S110-98765_BR21019	Ductal carcinoma, Breast	NA	NA	Female	NA
+S109-99690_F20044	Mucinous adenocarcinoma	NA	NA	Male	NA
+S110-99168_F21064	Metastatic adenocarcinoma	NA	NA	Male	NA
+M112-00077_MY23024	Acute myeloid leukemia (AML) with  x000D myelodysplasia(MDS)-related gene (STAG2) (ICC 2022), x000D or AML, MDS-related (WHO 2022)	NA	NA	Female	NA
+M111-00016_MY22036	Myelodysplastic Syndrome	NA	NA	Male	NA
+S111-99670_BR22040	Mucinous carcinoma, Breast	NA	NA	Female	NA
+M112-10099_PF23044	anaplastic astrocytoma	NA	NA	Male	NA
+S111-97968_F22116	Metastatic adenocarcinoma, Cerebrum	NA	NA	Male	NA
+S110-94933_PF21062	Clear cell carcinoma, Ovary	NA	NA	Female	NA
+S111-99103_PT22022	Small cell carcinoma, Anus	NA	NA	Female	NA
+S111-99814_PT22036	Gastrointestinal stromal tumor (GIST)	NA	NA	Male	NA
+S111-99562_F22058	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-00174_F23053	Neuroendocrine carcinoma	NA	NA	Male	NA
+S110-97820_MY21009	Acute Myeloid Leukemia	NA	NA	Male	NA
+S110-98240_F21012	Spindle cell tumor	NA	NA	Female	NA
+S110-89570_PF21034	Poorly differentiated carcinoma, Colon (Diagnosis from S110-96703)	NA	NA	Female	NA
+M112-10062_PT23027	Lung cancer	NA	NA	Female	NA
+S110-99819_F21084	Metastatic secretory carcinoma	NA	NA	Female	NA
+M112-10065_PT23030	Lung cancer	NA	NA	Male	NA
+M112-00028_BR23008	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-10101_PF23046	Colon adenocarcinoma (CRC)	NA	NA	Male	NA
+S109-89871_F20103	Squamous cell carcinoma	NA	NA	Male	NA
+S111-99016_PF22045	Liver cholangiocarcinoma	NA	NA	Female	NA
+S110-94774_PT21033	Neuroendocrine carcinoma, Liver	NA	NA	Female	NA
+S110-89569_PT21026	Neuroendocrine carcinoma, Stomach	NA	NA	Male	NA
+M111-00001_TM22015	Rectal cancer	NA	NA	Male	NA
+S111-97932_PF22111	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+M112-00071_F23019	Metastatic carcinoma	NA	NA	Female	NA
+S111-98863_PT22015	Ewing sarcoma, Lung	NA	NA	Male	NA
+S111-99727_F22069	Pericardial effusion, Carcinoma	NA	NA	Female	NA
+S111-99031_TM22006	Adenocarcinoma, Esophagus	NA	NA	Male	NA
+M112-10079_PT23034	Lung adenocarcinoma	NA	NA	Female	NA
+S110-94638_F21098	Adenocarcinoma	NA	NA	Female	NA
+S110-99165_F21061	Adenocarcinoma	NA	NA	Female	NA
+S111-99361_F22049	Adenocarcinoma, Lung	NA	NA	Male	NA
+S111-99030_F22029	Adenocarcinoma, Lung	NA	NA	Male	NA
+S110-99380_PG21003	Lung, adenocarcinoma	NA	NA	NA	NA
+M112-10084_PT23038	Liver cancer	NA	NA	Male	NA
+M112-00070_F23018	Poorly differentiated carcinoma, Lung	NA	NA	Female	NA
+S110-99320_F21069	Non-small cell carcinoma	NA	NA	Male	NA
+S110-99494_PF21005	Anaplastic astrocytoma, Cerebrum	NA	NA	Female	NA
+S111-98736_PT22010	Cholangiocarcinoma	NA	NA	Female	NA
+S111-99880_PF22080	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-98300_MY22004	Acute Myeloid Leukemia	NA	NA	Male	NA
+S110-94701_BR21053	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97833_F22079	Pericardial effusion, Adenocarcinoma	NA	NA	Male	NA
+S111-97868_PF22090	Malignant peripheral nerve sheath tumor, Spinal nerve	NA	NA	Female	NA
+M112-10043_PT23016	Pancreatic cancer	NA	NA	Male	NA
+S111-97867_PT22063	Metastatic gastric adenocarcinoma, Ovary	NA	NA	Female	NA
+S110-89476_PF21036	Glioblastoma, Cerebrum	NA	NA	Female	NA
+S111-99092_BR22028	Breast Lump	NA	NA	Female	NA
+S111-97912_F22101	Adenocarcinoma, Lung	NA	NA	Female	NA
+S109-99968_F20068	Adenocarcinoma	NA	NA	Male	NA
+M112-00029_BR23009	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-10035_PT23010	Adenocarcinoma	NA	NA	Male	NA
+M112-10102_PT23043	Cholangiocarcinoma	NA	NA	Female	NA
+S111-99522_BR22035	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S110-94855_PF21060	Intrahepatic cholangiocarcinoma(From clinical diagnosis)	NA	NA	Male	NA
+S109-99983_F20071	Poorly differentiated carcinoma	NA	NA	Female	NA
+S110-99713_F21081	Adenocarcinoma	NA	NA	Male	NA
+S111-99300_PT22025	 Metastatic lung adenocarcinoma, Brain	NA	NA	Male	NA
+S111-99749_PF22077	Esophageal neuroendocrine carcinoma, with nasopharynx metastasis (From clinical diagnosis)	NA	NA	Female	NA
+S110-98260_F21015	Thymic carcinoma	NA	NA	Male	NA
+S110-99714_BR21042	Clear cell carcinoma, Ovary	NA	NA	Female	NA
+M111-00024_BR22065	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-10008_PT22105	Nsclc	NA	NA	Male	NA
+M111-10006_PF22124	Glioblastoma, Cerebrum	NA	NA	Female	NA
+S110-98097_F21006	Metastatic carcinoma	NA	NA	Male	NA
+S110-89480_PT21023	Poorly differentiated carcinoma, Liver	NA	NA	Male	NA
+S111-99746_MY22018	Acute Myeloid Leukemia	NA	NA	Female	NA
+M112-00038_BR23011	Breast Cancer	NA	NA	Female	NA
+M112-00032_MY23009	Myeloid hyperplasia	NA	NA	Female	NA
+M112-00149_BR23045	High-grade serous carcinoma, Fallopian tube	NA	NA	Female	NA
+S111-99210_F22039	Metastatic carcinoma, Lymph node	NA	NA	Female	NA
+M111-00030_F22133	Metastatic carcinoma, Liver	NA	NA	Male	NA
+S110-98251_MY21001	APL	NA	NA	Female	NA
+S111-97935_F22104	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-98001_PF21061	Glioblastoma, Cerebrum	NA	NA	Female	NA
+S110-99211_BR21030	Breast cancer	NA	NA	Female	NA
+M111-00019_AL22002	Poorly differentiated carcinoma	NA	NA	NA	NA
+S111-97887_PG22010	Adrenal metastiatic tumor fo unknown origin (From clinical diagnosis)	NA	NA	NA	NA
+S110-98988_TM21010	Leiomyosarcoma, Soft tissue	NA	NA	Female	NA
+M112-00131_MY23031	Acute myeloid leukemia(AML), myelodysplasia(MDS)-related	NA	NA	Male	NA
+S111-98295_BR22012	Clear cell carcinoma, Ovary	NA	NA	Female	NA
+S110-94703_PG21012	Adenocarcinoma, Lung	NA	NA	NA	NA
+S110-89558_PF21040	Metastatic olfactory neuroblastoma, Lymph nodes	NA	NA	Female	NA
+S111-98212_MY22001	Myelodysplastic Syndrome	NA	NA	Male	NA
+S111-99590_PT22031	Hepatocellular carcinoma, Liver	NA	NA	Male	NA
+S109-89671_F20078	Adenocarcinoma	NA	NA	Female	NA
+S111-98809_BR22024	The patient asked for BRCA test due to hermother is a victim of ovarian ca with BRCA mutation	NA	NA	Female	NA
+M111-10039_PF22140	Gallbladder carcinoma	NA	NA	Female	NA
+S111-97820_PT22046	Metastatic lung adenocarcinoma, Bone	NA	NA	Male	NA
+S111-99520_BR22033	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97841_PT22053	Serous carcinoma, Ovary	NA	NA	Female	NA
+S110-98128_F21008	Adenocarcinoma	NA	NA	Female	NA
+M112-10028_PT23004	Pancreatic cancer	NA	NA	Male	NA
+S111-99747_MY22019	B-ALL	NA	NA	Female	NA
+S111-98954_PT22020	Gastric adenocarcinoma, Lymph node	NA	NA	Male	NA
+S110-94842_PF21056	Gastric cancer (From clinical diagnosis)	NA	NA	Male	NA
+S111-98718_F22020	Pleomorphic carcinoma, Lung	NA	NA	Male	NA
+S111-98805_PF22037	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S110-89554_F21096	Adenocarcinoma	NA	NA	Male	NA
+S110-99827_PF21030	Metastatic urothelial carcinoma	NA	NA	Female	NA
+S111-99588_PT22030	Adenocarcinoma, Prostate	NA	NA	Male	NA
+S111-99487_PG22007	Metastatic lung adenocarcinoma	NA	NA	NA	NA
+S111-99186_PF22056	Adenocarcinoma, Duodenum	NA	NA	Female	NA
+M111-00006_BR22061	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-89470_BR21050	Endometrioid adenocarcinoma, Ovary	NA	NA	Female	NA
+M112-00115_BR23035	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-10026_PF23008	Brain glioblastoma (GBM)	NA	NA	Female	NA
+S109-89833_F20096	Adenocarcinoma	NA	NA	Male	NA
+S110-98844_F21043	Adenocarcinoma	NA	NA	Female	NA
+S110-99433_PG21004	Cholangiocarcinoma	NA	NA	NA	NA
+S109-89603_F20074	Non-small cell carcinoma	NA	NA	Male	NA
+S110-99324_PT21001	Esophageal cancer	NA	NA	Male	NA
+S109-89773_F20088	Metastatic carcinoma	NA	NA	Female	NA
+M112-10092_PF23038	perivascular epithelioid cell tumor (PEComa)	NA	NA	Female	NA
+S111-97874_F22092	Non-small cell carcinoma, favor adenocarcinoma	NA	NA	Male	NA
+M112-00046_BR23012	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-98804_PF22035	Glioblastom, Cerebrum	NA	NA	Female	NA
+M112-10077_PT23032	Lung cancer	NA	NA	Female	NA
+S111-98058_PF21078	Adenocarcinoma, Lung (From S110-36875)	NA	NA	Male	NA
+M112-00064_MY23019	cytopenia of undetermined significance	NA	NA	Female	NA
+S111-98010_PT21043	Myxoid chondrosarcoma, Sacrum	NA	NA	NA	NA
+S111-98059_PF21064	Hepatocellular carcinoma, Liver (From S110-23674)	NA	NA	Male	NA
+S111-98005_PF21068	Atypical meningioma, Meninges	NA	NA	Female	NA
+S111-97915_BR22055	Adenocarcinoma, Prostate	NA	NA	Male	NA
+S110-99829_PT21013	Adenosquamous lung carcinoma	NA	NA	Female	NA
+M112-10110_PT23046	Pilocytic astrocytoma	NA	NA	Male	NA
+S111-97883_PF22098	Metastatic squamous cell carcinoma, Lymph node	NA	NA	Female	NA
+S109-99265_F20005	Metastatic adenocarcinoma	NA	NA	Female	NA
+M112-00004_MY23002	Acute Myeloid Leukemia	NA	NA	Male	NA
+S110-94700_BR21052	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S109-99623_F20037	Adenosquamous carcinoma	NA	NA	Male	NA
+M112-00042_MY23014	R/O atypical myeloproliferative Neoplasms, chronic  x000D neutrophilic leukemia	NA	NA	Male	NA
+M112-10121_PT23050	Lung adenocarcinoma	NA	NA	Female	NA
+M112-00034_F23008	Adenocarcinoma, Lung	NA	NA	Male	NA
+S109-99691_TM20002	Metastatic olfactory neuroblastoma	NA	NA	Male	NA
+S110-99090_F21056	Metastatic adenocarcinoma	NA	NA	Female	NA
+S111-97829_PT22050	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+S111-97840_BR22050	Recurrent high-grade serous carcinoma 	NA	NA	Female	NA
+S110-94771_PF21049	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S111-98649_BR22017	Carcinoma, Ovary	NA	NA	Female	NA
+S111-98311_PF22010	Adenocarcinoma, Gallbladder (From S111-70118)	NA	NA	Female	NA
+M111-00009_F22125	Metastatic adenocarcinoma, Lymph node	NA	NA	Male	NA
+M112-10055_PT23021	Pancreatic cancer	NA	NA	Female	NA
+M112-00043_MY23015	Myeloid/lymphoid neoplasm with eosinophilia 	NA	NA	Female	NA
+S111-99423_BR22032	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-98096_F21005	Metastatic melanoma	NA	NA	Female	NA
+S111-98313_PF22013	Adenocarcinoma, Rectum (From S105-69187)	NA	NA	Male	NA
+M112-00012_BR23003	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-99325_PT21002	Osteosarcoma	NA	NA	Female	NA
+S110-99812_PT21012	Metastatic ewing sarcoma, Lung	NA	NA	Male	NA
+M111-00008_MY22033	Acute Myeloid Leukemia	NA	NA	Female	NA
+S110-99574_PF21013	 Adenocarcinoma, Cecum and appendix	NA	NA	Male	NA
+M112-10018_PT23003	Hepatocellular carcinoma	NA	NA	Male	NA
+S111-97836_F22082	Metastatic adenocarcinoma	NA	NA	Male	NA
+M111-10001_PF22121	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S110-94997_F21118	Adenocarcinoma	NA	NA	Male	NA
+S111-98211_BR22011	Adenocarcinoma, endometrioid type, Ovary	NA	NA	Female	NA
+M112-00160_BR23048	Metastatic carcinoma, compatible with metastatic high-grade serous carcinoma	NA	NA	Female	NA
+M112-00010_MY23005	Anemia	NA	NA	Female	NA
+S111-98835_PT22008	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-98060_PG21013	Adenocarcinoma, Sigmoid colon	NA	NA	NA	NA
+M112-00161_BR23049	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-98034_F22001	Adenocarcinoma, Pleural effusion	NA	NA	Male	NA
+M112-10004_PT22101	R/o GIST	NA	NA	Female	NA
+S111-98293_F22012	Adenocarcinoma, Lung	NA	NA	Male	NA
+S110-94994_PT21040	 Poorly differentiated carcinoma, Liver	NA	NA	Male	NA
+S111-99301_F22042	Adenocarcinoma, Lung	NA	NA	Male	NA
+S111-97918_PF22106	NUT carcinoma, Lung (From S111-77395A)	NA	NA	Female	NA
+S109-89667_BR20002	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S111-97916_PT22071	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+S110-99657_BR21041	Compatible with primary peritoneal high-grade serouscarcinoma, Omentum	NA	NA	Female	NA
+S111-98943_F22027	Adenocarcinoma	NA	NA	Female	NA
+S111-98490_F22016	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-97863_PF22094	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+M112-10127_PT23054	Pancreatic cancer	NA	NA	Male	NA
+S110-98696_F21037	Adenocarcinoma	NA	NA	Female	NA
+S110-98408_F21029	Adenocarcinoma	NA	NA	Male	NA
+S111-98113_BR22007	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M111-00037_BR22067	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97854_PF22088	Anaplastic astrocytoma, Cerebrum	NA	NA	Male	NA
+M112-10089_PT23040	Pancreatic cancer	NA	NA	Male	NA
+M112-00125_BR23038	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S111-98431_PG22003	Adenocarcinoma, Lung	NA	NA	NA	NA
+M111-10045_PT22099	Lung cancer	NA	NA	Female	NA
+S110-98847_TM21007	Adenocarcinoma, Stomach	NA	NA	Male	NA
+M112-10105_PF23049	Pancreas adenosquamous carcinoma	NA	NA	Female	NA
+S111-98222_PF22001	Clear cell carcinoma, Ovary	NA	NA	Female	NA
+S110-89572_PF21044	Adenocarcinoma, gallbladder 	NA	NA	Female	NA
+M112-00049_MY23016	Acute myeloid leukemia (AML) with mutated TP53 (ICC  x000D 2022)	NA	NA	Female	NA
+S111-98210_BR22010	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S111-97861_PT22062	Metastatic lung adenocarcinoma, Liver	NA	NA	Female	NA
+S110-94846_F21105	Adenocarcinoma	NA	NA	Female	NA
+S111-99299_PF22050	Squamous cell carcinoma, Right palate and upper gingiva (From S110-04457)	NA	NA	Female	NA
+M112-00031_MY23008	Myeloid hyperplasia	NA	NA	Male	NA
+M112-10053_PF23020	Unknown primary adenocarcinoma	NA	NA	Male	NA
+S111-97875_F22093	Metastatic carcinoma 	NA	NA	Female	NA
+M112-00156_F23049	Metastatic carcinoma	NA	NA	Female	NA
+S111-99211_F22040	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-00181_MY23041	Myelodysplastic neoplasm(MDS) with biallelic TP53 inactivation,  x000D WHO 2022 x000D MDS with mutated TP53, ICC 2022	NA	NA	Male	NA
+S110-98468_F21031	Adenocarcinoma	NA	NA	Female	NA
+S111-98724_BR22022	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S111-98504_PF22004	Colon cancer (From clinical diagnosis)	NA	NA	Male	NA
+S109-99689_F20043	Adenocarcinoma	NA	NA	Male	NA
+S109-89736_F20087	Adenocarcinoma	NA	NA	Female	NA
+S111-98900_PT22016	Hepatocellular carcinoma, Liver	NA	NA	Female	NA
+S109-99625_F20039	Non-small cell carcinoma	NA	NA	Female	NA
+S110-99938_PF21028	Adenocarcinoma, Lung	NA	NA	Female	NA
+M112-00075_BR23022	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+M111-10041_PT22096	Lung adenocarcinoma	NA	NA	Female	NA
+S111-98148_PF21071	Cholangiocarcinoma (From clincal diagnosis)	NA	NA	Male	NA
+S111-99360_F22048	Invasive mucinous adenocarcinoma, Lung	NA	NA	Male	NA
+M112-00102_F23035	Adenocarcinoma, Lung	NA	NA	Male	NA
+M111-10032_PF22137	Glioblastoma, Cerebrum	NA	NA	Female	NA
+M112-00044_F23010	Adenocarcinoma, Lung	NA	NA	Female	NA
+S111-97943_F22109	Non-small cell carcinoma, Lung	NA	NA	Male	NA
+S110-98019_BR21001	Metastatic carcinoma	NA	NA	Female	NA
+S111-98733_PT22009	Prostate adenocarcinoma	NA	NA	Male	NA
+M112-00014_BR23005	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+M112-00035_MY23011	Myelodysplastic syndrome	NA	NA	Female	NA
+S108-99134_F19008	Sarcomatoid neoplasm	NA	NA	Female	NA
+S111-97922_TM22011	Adenocarcinoma, Colon	NA	NA	Female	NA
+S111-99672_PT22034	Adenocarcinoma, Pancreas	NA	NA	Female	NA
+S110-98767_BR21021	High-grade serous carcinoma, Ovary	NA	NA	Female	NA
+S111-99739_PF22075	Glioblastoma, Cerebrum	NA	NA	Male	NA
+S110-99501_F21076	Squamous cell carcinoma	NA	NA	Male	NA
+S109-99478_F20022	Adenocarcinoma	NA	NA	Female	NA
+S111-97851_F22084	Adenocarcinoma, Ascending colon	NA	NA	Female	NA
+S111-99182_F22036	Adenocarcinoma, Lung	NA	NA	Female	NA
+S109-99815_F20052	Metastatic adenoid cystic carcinoma	NA	NA	Female	NA
+S111-97872_PT22064	Metastatic leiomyosarcoma, Liver	NA	NA	Female	NA
+M111-00029_F22132	Adenocarcinoma, Pleural effusion	NA	NA	Female	NA
+S110-98593_F21034	Adenocarcinoma	NA	NA	Male	NA
+S110-89567_AL21001	Metastatic carcinoma, Lung	NA	NA	NA	NA
+S109-89673_F20080	Adenocarcinoma	NA	NA	Female	NA
+S109-89838_F20101	Adenocarcinoma	NA	NA	Male	NA
+S111-97824_BR22047	Clear cell carcinoma, Ovary	NA	NA	Female	NA
+M111-10023_PF22131	Metastatic adenocarcinoma	NA	NA	Female	NA
+S110-98241_F21013	Adenocarcinoma	NA	NA	Male	NA
+S110-99378_F21070	Thymoma	NA	NA	Male	NA
+M112-10098_PF23043	Pancreas ductal adenocarcinoma	NA	NA	Male	NA
+S110-94849_F21108	Adenocarcinoma	NA	NA	Male	NA
+S110-98846_BR21023	Adenocarcinoma, Ovary	NA	NA	Female	NA
+M112-10091_PF23037	Brain glioblastoma (GBM)	NA	NA	Male	NA
+S111-99076_PF22046	Malignant tumor, Anterior lower gingiva	NA	NA	Female	NA
+S110-94854_PF21058	Intrahepatic cholangiocarcinoma(From clinical diagnosis)	NA	NA	Male	NA
+S111-99362_F22050	Adenocarcinoma, Lung	NA	NA	Female	NA
+M111-10002_PF22123	Metastatic carcinoma	NA	NA	Female	NA
+S111-99209_F22038	Adenocarcinoma, Lung	NA	NA	Male	NA
+S111-98363_MY22005	Acute Myeloid Leukemia	NA	NA	Female	NA
+S111-99306_BR22030	Invasive ductal carcinoma, Breast	NA	NA	Female	NA
+S110-99318_F21067	Metastatic adenocarcinoma	NA	NA	Male	NA
+S111-98351_F22014	Lymphoepithelial carcinoma, Lung	NA	NA	Female	NA
+S111-97845_PT22056	Metastatic hepatocellular carcinoma, Lung	NA	NA	Female	NA
+S110-98961_F21048	Metastatic carcinoma	NA	NA	Male	NA
+S111-97901_BR22054	Primary peritoneal serous carcinoma, Omentum	NA	NA	Female	NA
+S111-97852_MY22023	Acute Myeloid Leukemia	NA	NA	Male	NA
